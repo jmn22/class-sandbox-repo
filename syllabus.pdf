@@ -1,0 +1,641 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 8 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class PDFDictionary 
+4 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:mark.palmeri@duke.edu) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 234.8423
+ 689.7736
+ 343.9123
+ 701.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class PDFDictionary 
+5 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:matt.brown@duke.edu) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 210.4123
+ 674.7736
+ 311.1623
+ 686.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class PDFDictionary 
+6 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:dh65@duke.edu) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 233.7623
+ 659.7736
+ 307.2923
+ 671.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class PDFDictionary 
+7 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://people.duke.edu/~mlp6/BME464L/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 153.7323
+ 602.7736
+ 338.1952
+ 614.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F3': class PDFType1Font 
+8 0 obj
+% Font Helvetica-Oblique
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+9 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R
+ 5 0 R
+ 6 0 R
+ 7 0 R ]
+ /Contents 13 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 12 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R10': class PDFCatalog 
+10 0 obj
+% Document Root
+<< /Outlines 14 0 R
+ /PageLabels 15 0 R
+ /PageMode /UseNone
+ /Pages 12 0 R
+ /Type /Catalog >>
+endobj
+% 'R11': class PDFInfo 
+11 0 obj
+<< /Author ()
+ /CreationDate (D:20130720172336+05'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (BME464L: Medical Instrument Design) >>
+endobj
+% 'R12': class PDFPages 
+12 0 obj
+% page tree
+<< /Count 1
+ /Kids [ 9 0 R ]
+ /Type /Pages >>
+endobj
+% 'R13': class PDFStream 
+13 0 obj
+% page stream
+<< /Length 8952 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 56.57488 0 Td (BME464L: Medical Instrument Design) Tj T* -56.57488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL 111.9674 0 Td (Class Syllabus \(Fall 2013, Palmeri\)) Tj T* -111.9674 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 686.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 23.03937 0 Td (Instructor:) Tj T* -23.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Dr. Mark Palmeri \() Tj 0 0 .501961 rg (mark.palmeri@duke.edu) Tj 0 0 0 rg (\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 671.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 16.91937 0 Td (Lab Master:) Tj T* -16.91937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Matt Brown \() Tj 0 0 .501961 rg (matt.brown@duke.edu) Tj 0 0 0 rg (\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 644.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 29.13937 0 Td (Teaching) Tj T* -4.44 0 Td (Assistant:) Tj T* -24.69937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Dongwoon Hyun \() Tj 0 0 .501961 rg (dh65@duke.edu) Tj 0 0 0 rg (\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 629.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 33.58937 0 Td (Lecture:) Tj T* -33.58937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Tuesday and Thursday from 11:45 - 13:00 in 201 Hudson Hall) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 614.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 51.92937 0 Td (Lab:) Tj T* -51.92937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Thursday from 16:40 - 19:40 in P012 Teer) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 527.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 1.90937 0 Td (Class Website:) Tj T* -1.90937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 74 Tm 2.962913 Tw 12 TL /F1 10 Tf 0 0 .501961 rg (http://people.duke.edu/~mlp6/BME464L/ ) Tj 0 0 0 rg (This website is actually a git repository) Tj T* 0 Tw 2.1708 Tw (hosted and rendered by GitHub! Please be sure to check the website often for) Tj T* 0 Tw 2.767822 Tw (announcments, deliverable deadlines, project resource, and useful tips as your) Tj T* 0 Tw .546399 Tw (projects progress throughout the semester. Content changes on the website will be) Tj T* 0 Tw 2.632533 Tw (tracked through the commit history to the git repository used to manage class) Tj T* 0 Tw 1.105033 Tw (resources by Dr. Palmeri. Significant changes and additions to the website will be) Tj T* 0 Tw (announced by email.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 452.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 15.25937 0 Td (Attendance:) Tj T* -15.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 62 Tm 1.4008 Tw 12 TL /F1 10 Tf 0 0 0 rg (Lecture / lab attendance _and_ participation count for 10% of your class grade. I) Tj T* 0 Tw .589314 Tw (understand that students will have to miss class / lab for job and school interviews,) Tj T* 0 Tw 2.316399 Tw (personal reasons, illness, etc. Absences will be considered ) Tj /F3 10 Tf (excused ) Tj /F1 10 Tf (if they are) Tj T* 0 Tw .293107 Tw (communicated to Dr. Palmeri at least 48 hours in advance or through submission of) Tj T* 0 Tw .099127 Tw (Short Term Illness Form \(STIF\) [ADD URL HERE!!]. Unexcused absences will count) Tj T* 0 Tw (against the attendance and participation component of your class grade.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 413.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 9.69937 0 Td (Office Hours:) Tj T* -9.69937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .350742 Tw (Dr. Palmeri has scheduled office hours on XXXX from XXXX to XXXX. Other days /) Tj T* 0 Tw .640866 Tw (times are always available by appointment, and there is an open-door policy active) Tj T* 0 Tw (all semester \(i.e., if my office door is open, then you are welcome to pop in\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 386.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 14 Tm 13.02937 0 Td 12 TL /F2 10 Tf 0 0 0 rg (Textbooks &) Tj T* 2.77 0 Td (References:) Tj T* -15.79937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Coming Soon!) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 359.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 4.12937 0 Td (Electronic Lab) Tj T* 13.91 0 Td (Notebooks:) Tj T* -18.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (LabArchives or GitHub) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 344.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 31.36937 0 Td (Grading:) Tj T* -31.36937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The following grading scheme is subject to change as the semester progresses.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 338.0236 cm
+Q
+q
+1 0 0 1 62.69291 176.0236 cm
+1 1 1 rg
+n 0 162 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 144 469.8898 -18 re f*
+1 1 1 rg
+n 0 126 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 108 469.8898 -18 re f*
+1 1 1 rg
+n 0 90 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 72 469.8898 -18 re f*
+1 1 1 rg
+n 0 54 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 36 469.8898 -18 re f*
+1 1 1 rg
+n 0 18 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 147 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Attendance & Participation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.5861 147 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (10%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 129 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Progress Report #1 & Presentation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.5861 129 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (10%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 111 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Progress Report #2 & Presentation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.5861 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (10%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 93 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Final Code \(git\) & Documentation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.5861 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (10%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Final Device Function) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.5861 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (15%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Final Report) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.5861 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (15%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Final Device User Manual) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.5861 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (10%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Final Presentation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.5861 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (10%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Final Poster) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.5861 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (10%) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 144 m 469.8898 144 l S
+n 0 126 m 469.8898 126 l S
+n 0 108 m 469.8898 108 l S
+n 0 90 m 469.8898 90 l S
+n 0 72 m 469.8898 72 l S
+n 0 54 m 469.8898 54 l S
+n 0 36 m 469.8898 36 l S
+n 0 18 m 469.8898 18 l S
+n 412.5861 0 m 412.5861 162 l S
+n 0 162 m 469.8898 162 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 162 l S
+n 469.8898 0 m 469.8898 162 l S
+Q
+Q
+q
+1 0 0 1 62.69291 176.0236 cm
+Q
+q
+1 0 0 1 62.69291 170.0236 cm
+Q
+q
+1 0 0 1 62.69291 143.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 25.79937 0 Td (Academic) Tj T* 14.47 0 Td (Honor:) Tj T* -40.26937 0 Td ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 116.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 29.70937 0 Td (Words of) Tj T* -8.37 0 Td ("Wisdom":) Tj T* -21.33937 0 Td ET
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+% 'R14': class PDFOutlines 
+14 0 obj
+<< /Count 0
+ /Type /Outlines >>
+endobj
+% 'R15': class PDFPageLabels 
+15 0 obj
+% Document Root
+<< /Nums [ 0
+ 16 0 R ] >>
+endobj
+% 'R16': class PDFPageLabel 
+16 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+xref
+0 17
+0000000000 65535 f
+0000000113 00000 n
+0000000233 00000 n
+0000000398 00000 n
+0000000585 00000 n
+0000000831 00000 n
+0000001075 00000 n
+0000001313 00000 n
+0000001556 00000 n
+0000001735 00000 n
+0000002059 00000 n
+0000002218 00000 n
+0000002497 00000 n
+0000002604 00000 n
+0000011657 00000 n
+0000011740 00000 n
+0000011833 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\374&\306!\236\300\265z"\015\211v\322\320lb) (\374&\306!\236\300\265z"\015\211v\322\320lb)] 
+
+ /Info 11 0 R
+ /Root 10 0 R
+ /Size 17 >>
+startxref
+11880
+%%EOF
