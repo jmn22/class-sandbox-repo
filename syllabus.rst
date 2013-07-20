@@ -5,15 +5,10 @@ Class Syllabus (Fall 2013, Palmeri)
 ------------------------------------
 
 :Instructor: Dr. Mark Palmeri (mark.palmeri@duke.edu)
-             
 :Lab Master: Matt Brown (matt.brown@duke.edu)
-
 :Teaching Assistant: Dongwoon Hyun (dh65@duke.edu)
-
 :Lecture: Tuesday and Thursday from 11:45 - 13:00 in 201 Hudson Hall
-
 :Lab: Thursday from 16:40 - 19:40 in P012 Teer
-
 :Class Website: http://people.duke.edu/~mlp6/BME464L/  (This website is actually a git repository hosted and rendered by GitHub!)
 
 Please be sure to check the website often for announcments, deliverable
