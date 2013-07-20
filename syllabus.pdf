@@ -101,12 +101,12 @@ endobj
  5 0 R
  6 0 R
  7 0 R ]
- /Contents 13 0 R
+ /Contents 15 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 12 0 R
+ /Parent 14 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -117,36 +117,72 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'R10': class PDFCatalog 
+% 'Annot.NUMBER5': class PDFDictionary 
 10 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.integrity.duke.edu/standard.html) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 206.8544
+ 675.7736
+ 408.3664
+ 687.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page2': class PDFPage 
+11 0 obj
+% Page dictionary
+<< /Annots [ 10 0 R ]
+ /Contents 16 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 14 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R12': class PDFCatalog 
+12 0 obj
 % Document Root
-<< /Outlines 14 0 R
- /PageLabels 15 0 R
+<< /Outlines 17 0 R
+ /PageLabels 18 0 R
  /PageMode /UseNone
- /Pages 12 0 R
+ /Pages 14 0 R
  /Type /Catalog >>
 endobj
-% 'R11': class PDFInfo 
-11 0 obj
+% 'R13': class PDFInfo 
+13 0 obj
 << /Author ()
- /CreationDate (D:20130720172336+05'00')
+ /CreationDate (D:20130720173855+05'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
  /Subject (\(unspecified\))
  /Title (BME464L: Medical Instrument Design) >>
 endobj
-% 'R12': class PDFPages 
-12 0 obj
+% 'R14': class PDFPages 
+14 0 obj
 % page tree
-<< /Count 1
- /Kids [ 9 0 R ]
+<< /Count 2
+ /Kids [ 9 0 R
+ 11 0 R ]
  /Type /Pages >>
 endobj
-% 'R13': class PDFStream 
-13 0 obj
+% 'R15': class PDFStream 
+15 0 obj
 % page stream
-<< /Length 8952 >>
+<< /Length 8501 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -561,30 +597,158 @@ Q
 q
 1 0 0 1 62.69291 170.0236 cm
 Q
+ 
+endstream
+endobj
+% 'R16': class PDFStream 
+16 0 obj
+% page stream
+<< /Length 3628 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 143.0236 cm
+1 0 0 1 62.69291 630.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 75 cm
+q
+BT 1 0 0 1 0 50 Tm 48.58937 0 Td 12 TL /F2 10 Tf 0 0 0 rg (Duke) Tj T* -30.55 0 Td (Community) Tj T* 1.66 0 Td (Standard &) Tj T* 6.1 0 Td (Academic) Tj T* 14.47 0 Td (Honor:) Tj T* -40.26937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 75 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 25.79937 0 Td (Academic) Tj T* 14.47 0 Td (Honor:) Tj T* -40.26937 0 Td ET
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .315866 Tw (Engineering is inherently a collaborative field, and in this class, you are encouraged) Tj T* 0 Tw 2.174646 Tw (to work collaboratively on your projects. The work that you submit must be the) Tj T* 0 Tw .522763 Tw (product of your and your group's effort and understanding. All resources developed) Tj T* 0 Tw 3.743366 Tw (by another person or company, and used in your project, must be properly) Tj T* 0 Tw (recognized.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 33 cm
+q
+BT 1 0 0 1 0 26 Tm 3.280866 Tw 12 TL /F1 10 Tf 0 0 0 rg (All students are expected to adhere to all principles of the Duke Community) Tj T* 0 Tw 6.982079 Tw (Standard: ) Tj 0 0 .501961 rg (http://www.integrity.duke.edu/standard.html ) Tj 0 0 0 rg (Violations of the Duke) Tj T* 0 Tw (Community Standard will be referred immediately to the Office of Student Conduct.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.141699 Tw (Please do not hesitate to talk with Dr. Palmeri about any situations involving) Tj T* 0 Tw (academic honor, especially if it is ambiguous what should be done.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 116.0236 cm
+1 0 0 1 62.69291 507.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 99 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 29.70937 0 Td (Words of) Tj T* -8.37 0 Td ("Wisdom":) Tj T* -21.33937 0 Td ET
 Q
+Q
+q
+1 0 0 1 91.03937 117 cm
+Q
+q
+1 0 0 1 91.03937 117 cm
+Q
+q
+1 0 0 1 91.03937 81 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm .3608 Tw 12 TL /F1 10 Tf 0 0 0 rg (Do ) Tj /F2 10 Tf (not ) Tj /F1 10 Tf (procrastinate on your projects. It might appear that you have the entire) Tj T* 0 Tw 1.409199 Tw (semester to design and build your device, but you actually have less-than 8) Tj T* 0 Tw (weeks.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 75 cm
+Q
+q
+1 0 0 1 91.03937 51 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.581039 Tw (Document everything in your electronic lab notebook. You never know what) Tj T* 0 Tw (small detail you may need to remember in the future.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 45 cm
+Q
+q
+1 0 0 1 91.03937 33 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Try to test code ) Tj /F2 10 Tf (before ) Tj /F1 10 Tf (you upload it onto your microcontroller.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 27 cm
+Q
+q
+1 0 0 1 91.03937 3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.085039 Tw (With respect to git: commit, commit, commit!! Make changes and additions) Tj T* 0 Tw (small and modular.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
 Q
 q
 Q
@@ -592,25 +756,33 @@ Q
  
 endstream
 endobj
-% 'R14': class PDFOutlines 
-14 0 obj
+% 'R17': class PDFOutlines 
+17 0 obj
 << /Count 0
  /Type /Outlines >>
 endobj
-% 'R15': class PDFPageLabels 
-15 0 obj
+% 'R18': class PDFPageLabels 
+18 0 obj
 % Document Root
 << /Nums [ 0
- 16 0 R ] >>
+ 19 0 R
+ 1
+ 20 0 R ] >>
 endobj
-% 'R16': class PDFPageLabel 
-16 0 obj
+% 'R19': class PDFPageLabel 
+19 0 obj
 % None
 << /S /D
  /St 1 >>
 endobj
+% 'R20': class PDFPageLabel 
+20 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
 xref
-0 17
+0 21
 0000000000 65535 f
 0000000113 00000 n
 0000000233 00000 n
@@ -621,21 +793,25 @@ xref
 0000001313 00000 n
 0000001556 00000 n
 0000001735 00000 n
-0000002059 00000 n
-0000002218 00000 n
-0000002497 00000 n
-0000002604 00000 n
-0000011657 00000 n
-0000011740 00000 n
-0000011833 00000 n
+0000002072 00000 n
+0000002320 00000 n
+0000002622 00000 n
+0000002781 00000 n
+0000003060 00000 n
+0000003176 00000 n
+0000011776 00000 n
+0000015505 00000 n
+0000015588 00000 n
+0000015694 00000 n
+0000015771 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\374&\306!\236\300\265z"\015\211v\322\320lb) (\374&\306!\236\300\265z"\015\211v\322\320lb)] 
+ [(\207\342\316\236\022\240\330\213\344\303\366\267G\025\352\250) (\207\342\316\236\022\240\330\213\344\303\366\267G\025\352\250)] 
 
- /Info 11 0 R
- /Root 10 0 R
- /Size 17 >>
+ /Info 13 0 R
+ /Root 12 0 R
+ /Size 21 >>
 startxref
-11880
+15818
 %%EOF
