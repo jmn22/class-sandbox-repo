@@ -1,0 +1,276 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+4 0 obj
+% Page dictionary
+<< /Contents 8 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 7 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R5': class PDFCatalog 
+5 0 obj
+% Document Root
+<< /Outlines 9 0 R
+ /PageLabels 10 0 R
+ /PageMode /UseNone
+ /Pages 7 0 R
+ /Type /Catalog >>
+endobj
+% 'R6': class PDFInfo 
+6 0 obj
+<< /Author ()
+ /CreationDate (D:20130720172709+05'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (BME464L: Medical Instrument Design) >>
+endobj
+% 'R7': class PDFPages 
+7 0 obj
+% page tree
+<< /Count 1
+ /Kids [ 4 0 R ]
+ /Type /Pages >>
+endobj
+% 'R8': class PDFStream 
+8 0 obj
+% page stream
+<< /Length 2663 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 56.57488 0 Td (BME464L: Medical Instrument Design) Tj T* -56.57488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL 89.87988 0 Td (Class / Lab Schedule \(Fall 2013, Palmeri\)) Tj T* -89.87988 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 689.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (COMING SOON!) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 683.0236 cm
+Q
+q
+1 0 0 1 62.69291 668.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 33.58937 0 Td (Lecture:) Tj T* -33.58937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Tuesday and Thursday from 11:45 - 13:00 in 201 Hudson Hall) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 653.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 51.92937 0 Td (Lab:) Tj T* -51.92937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Thursday from 16:40 - 19:40 in P012 Teer) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 647.0236 cm
+Q
+q
+1 0 0 1 62.69291 611.0236 cm
+1 1 1 rg
+n 0 36 469.8898 -9 re f*
+.878431 .878431 .878431 rg
+n 0 27 469.8898 -9 re f*
+1 1 1 rg
+n 0 18 469.8898 -9 re f*
+.878431 .878431 .878431 rg
+n 0 9 469.8898 -9 re f*
+.960784 .960784 .862745 rg
+n 0 36 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 124.0207 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 48.67536 0 Td (DATE) Tj T* -48.67536 0 Td ET
+Q
+Q
+q
+1 0 0 1 142.0207 21 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 148.7518 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 40.20588 0 Td (DESCRIPTION) Tj T* -40.20588 0 Td ET
+Q
+Q
+q
+1 0 0 1 302.7725 21 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 161.1173 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 43.04364 0 Td (DELIVERABLES) Tj T* -43.04364 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Week 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.0207 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Nothing Yet) Tj T* ET
+Q
+Q
+q
+1 0 0 1 302.7725 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Nothing Yet) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 18 m 469.8898 18 l S
+n 136.0207 0 m 136.0207 36 l S
+n 296.7725 0 m 296.7725 36 l S
+n 0 36 m 469.8898 36 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 36 l S
+n 469.8898 0 m 469.8898 36 l S
+Q
+Q
+q
+1 0 0 1 62.69291 611.0236 cm
+Q
+ 
+endstream
+endobj
+% 'R9': class PDFOutlines 
+9 0 obj
+<< /Count 0
+ /Type /Outlines >>
+endobj
+% 'R10': class PDFPageLabels 
+10 0 obj
+% Document Root
+<< /Nums [ 0
+ 11 0 R ] >>
+endobj
+% 'R11': class PDFPageLabel 
+11 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+xref
+0 12
+0000000000 65535 f
+0000000113 00000 n
+0000000221 00000 n
+0000000386 00000 n
+0000000559 00000 n
+0000000836 00000 n
+0000000991 00000 n
+0000001268 00000 n
+0000001373 00000 n
+0000004135 00000 n
+0000004217 00000 n
+0000004310 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\253\344\331]\324\272\300\250\223\232i_\364\352O\267) (\253\344\331]\324\272\300\250\223\232i_\364\352O\267)] 
+
+ /Info 6 0 R
+ /Root 5 0 R
+ /Size 12 >>
+startxref
+4357
+%%EOF
