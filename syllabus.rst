@@ -1,11 +1,8 @@
 BME464L: Medical Instrument Design
 ==================================
 
-Class Syllabus
---------------
-
-Fall 2013 (Palmeri)
-~~~~~~~~~~~~~~~~~~~
+Class Syllabus (Fall 2013, Palmeri)
+------------------------------------
 
 :Instructor: Dr. Mark Palmeri (mark.palmeri@duke.edu)
              

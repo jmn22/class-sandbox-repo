@@ -1,8 +1,8 @@
-BME464L Class / Lab Schedule
-=============================
+BME464L: Medical Instrument Design 
+==================================
 
-Fall 2013, Palmeri
-------------------
+Class / Lab Schedule (Fall 2013, Palmeri)
+------------------------------------------
 
 COMING SOON!
 
