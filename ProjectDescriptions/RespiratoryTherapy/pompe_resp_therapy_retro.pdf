@@ -1,0 +1,221 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class PDFDictionary 
+4 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:harrison.jones@duke.edu) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 273.7623
+ 521.7736
+ 387.8523
+ 533.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page1': class PDFPage 
+5 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R ]
+ /Contents 9 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 8 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R6': class PDFCatalog 
+6 0 obj
+% Document Root
+<< /Outlines 10 0 R
+ /PageLabels 11 0 R
+ /PageMode /UseNone
+ /Pages 8 0 R
+ /Type /Catalog >>
+endobj
+% 'R7': class PDFInfo 
+7 0 obj
+<< /Author ()
+ /CreationDate (D:20130720174745+05'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (BME464L Project: Respiratory Therapy Device \(Retrofit\)) >>
+endobj
+% 'R8': class PDFPages 
+8 0 obj
+% page tree
+<< /Count 1
+ /Kids [ 5 0 R ]
+ /Type /Pages >>
+endobj
+% 'R9': class PDFStream 
+9 0 obj
+% page stream
+<< /Length 2568 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 717.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 28 Tm /F2 20 Tf 24 TL 14.87488 0 Td (BME464L Project: Respiratory Therapy Device) Tj T* 177.86 0 Td (\(Retrofit\)) Tj T* -192.7349 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 687.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL 171.9899 0 Td (Fall 2013, Palmeri) Tj T* -171.9899 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 572.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 81 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 37.46937 0 Td (Clinical) Tj T* -7.77 0 Td (Problem:) Tj T* -29.69937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 57 cm
+q
+BT 1 0 0 1 0 38 Tm 3.932763 Tw 12 TL /F1 10 Tf 0 0 0 rg (Pompe disease is a glycogen storage disease \(GSD\) in pediatric and adult) Tj T* 0 Tw 1.102266 Tw (populations that results in significant neuromuscular deficits, including cardiac and) Tj T* 0 Tw .798933 Tw (respiratory failure. While some pharmacologic treatments are promising to improve) Tj T* 0 Tw (cardiac function, respiratory failure still remains a source of morbidity and mortality.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.939039 Tw (Current respiratory therapy devices are crude, lack clinician control, and provide) Tj T* 0 Tw .768039 Tw (limited-to-no feedback to the patient. Patients can potentially over-train without this) Tj T* 0 Tw 2.36549 Tw (feedback, which can exacerbate the muscular weakness that they are trying to) Tj T* 0 Tw (compensate for with their therapy.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 533.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 39.13937 0 Td (Project) Tj T* -14.45 0 Td (Objective:) Tj T* -24.68937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 3.203377 Tw (Retrofit existing inspiration and exhalation respiratory devices to provide more) Tj T* 0 Tw .913377 Tw (therapeutic control, data recording, improved training safety, and patient feedback,) Tj T* 0 Tw (as specified by your assigned respiratory therapist.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 506.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 17.46937 0 Td (Respiratory) Tj T* 7.23 0 Td (Therapist:) Tj T* -24.69937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Dr. Harrison Jones, Ph.D. \() Tj 0 0 .501961 rg (harrison.jones@duke.edu) Tj 0 0 0 rg (\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+% 'R10': class PDFOutlines 
+10 0 obj
+<< /Count 0
+ /Type /Outlines >>
+endobj
+% 'R11': class PDFPageLabels 
+11 0 obj
+% Document Root
+<< /Nums [ 0
+ 12 0 R ] >>
+endobj
+% 'R12': class PDFPageLabel 
+12 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+xref
+0 13
+0000000000 65535 f
+0000000113 00000 n
+0000000221 00000 n
+0000000386 00000 n
+0000000573 00000 n
+0000000807 00000 n
+0000001104 00000 n
+0000001260 00000 n
+0000001559 00000 n
+0000001664 00000 n
+0000004332 00000 n
+0000004415 00000 n
+0000004508 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(/\367\245\247\3724\214\261q\021\206<\033\177\270\004) (/\367\245\247\3724\214\261q\021\206<\033\177\270\004)] 
+
+ /Info 7 0 R
+ /Root 6 0 R
+ /Size 13 >>
+startxref
+4555
+%%EOF
