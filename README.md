@@ -1,7 +1,8 @@
 Medical-Instrument-Design
 =============================
 
-Medical Instrument Design (Duke University, BME464L)
+Duke University, BME464L
+------------------------
 
 There is a website, hosted on GitHub, that contains formatted links to most of the material with source code in this repository: http://mlp6.github.io/Medical-Instrument-Design
 
