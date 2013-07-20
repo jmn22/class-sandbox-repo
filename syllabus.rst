@@ -54,6 +54,31 @@ Class Syllabus (Fall 2013, Palmeri)
 | Final Poster                       | 10% |
 +------------------------------------+-----+
 
-:Academic Honor:
+:Duke Community Standard & Academic Honor: 
+
+    Engineering is inherently a collaborative field, and in this class, you are
+    encouraged to work collaboratively on your projects.  The work that you
+    submit must be the product of your and your group's effort and
+    understanding.  All resources developed by another person or company, and
+    used in your project, must be properly recognized.
+ 
+    All students are expected to adhere to all principles of the Duke Community
+    Standard: http://www.integrity.duke.edu/standard.html  Violations of the
+    Duke Community Standard will be referred immediately to the Office of
+    Student Conduct.
+
+    Please do not hesitate to talk with Dr. Palmeri about any situations
+    involving academic honor, especially if it is ambiguous what should be
+    done.
 
 :Words of "Wisdom":
+    * Do **not** procrastinate on your projects.  It might appear that you have
+      the entire semester to design and build your device, but you actually
+      have less-than 8 weeks.
+
+    * Document everything in your electronic lab notebook.  You never know what
+      small detail you may need to remember in the future.
+
+    * Try to test code **before** you upload it onto your microcontroller.
+
+    * With respect to git: commit, commit, commit!!  Make changes and additions small and modular.
