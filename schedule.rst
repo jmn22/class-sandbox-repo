@@ -16,3 +16,12 @@ COMING SOON!
 + Week 1    | Nothing Yet | Nothing Yet  +
 +-----------+-------------+--------------+
 
+Topics:
+
+* Software Licenses (have students argue for one over another)
+
+* Version Control Software
+
+* FDA / Regulatory / Safety
+
+

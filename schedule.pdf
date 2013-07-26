@@ -55,7 +55,7 @@ endobj
 % 'R6': class PDFInfo 
 6 0 obj
 << /Author ()
- /CreationDate (D:20130720172709+05'00')
+ /CreationDate (D:20130725174435+05'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
@@ -72,7 +72,7 @@ endobj
 % 'R8': class PDFStream 
 8 0 obj
 % page stream
-<< /Length 2663 >>
+<< /Length 3879 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -229,6 +229,91 @@ Q
 q
 1 0 0 1 62.69291 611.0236 cm
 Q
+q
+1 0 0 1 62.69291 593.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Topics:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 587.0236 cm
+Q
+q
+1 0 0 1 62.69291 587.0236 cm
+Q
+q
+1 0 0 1 62.69291 575.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Software Licenses \(have students argue for one over another\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 569.0236 cm
+Q
+q
+1 0 0 1 62.69291 557.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Version Control Software) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 551.0236 cm
+Q
+q
+1 0 0 1 62.69291 539.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (FDA / Regulatory / Safety) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 539.0236 cm
+Q
  
 endstream
 endobj
@@ -260,17 +345,17 @@ xref
 0000000991 00000 n
 0000001268 00000 n
 0000001373 00000 n
-0000004135 00000 n
-0000004217 00000 n
-0000004310 00000 n
+0000005351 00000 n
+0000005433 00000 n
+0000005526 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\253\344\331]\324\272\300\250\223\232i_\364\352O\267) (\253\344\331]\324\272\300\250\223\232i_\364\352O\267)] 
+ [(,2\023\255\013?L\253\310\025\004\341\224\247\221") (,2\023\255\013?L\253\310\025\004\341\224\247\221")] 
 
  /Info 6 0 R
  /Root 5 0 R
  /Size 12 >>
 startxref
-4357
+5573
 %%EOF
