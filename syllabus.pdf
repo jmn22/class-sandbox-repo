@@ -74,14 +74,14 @@ endobj
 7 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (http://people.duke.edu/~mlp6/BME464L/) >>
+ /URI (http://mlp6.github.io/Medical-Instrument-Design/) >>
  /Border [ 0
  0
  0 ]
  /Rect [ 153.7323
- 602.7736
- 338.1952
- 614.7736 ]
+ 563.7736
+ 374.4523
+ 575.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -164,7 +164,7 @@ endobj
 % 'R13': class PDFInfo 
 13 0 obj
 << /Author ()
- /CreationDate (D:20130720173855+05'00')
+ /CreationDate (D:20130726115521+05'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
@@ -182,7 +182,7 @@ endobj
 % 'R15': class PDFStream 
 15 0 obj
 % page stream
-<< /Length 8501 >>
+<< /Length 9094 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -302,7 +302,28 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 527.0236 cm
+1 0 0 1 62.69291 575.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 46.35937 0 Td (Class) Tj T* -21.11 0 Td (Schedule:) Tj T* -25.24937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.779314 Tw (All class activites are being managed in a Google Calendar that is linked to the) Tj T* 0 Tw 1.6208 Tw (class website listed below. XML, iCal and HTML links are available to make this) Tj T* 0 Tw (calendar accessible in your calendar service of choice.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 488.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -315,14 +336,14 @@ Q
 q
 1 0 0 1 91.03937 3 cm
 q
-BT 1 0 0 1 0 74 Tm 2.962913 Tw 12 TL /F1 10 Tf 0 0 .501961 rg (http://people.duke.edu/~mlp6/BME464L/ ) Tj 0 0 0 rg (This website is actually a git repository) Tj T* 0 Tw 2.1708 Tw (hosted and rendered by GitHub! Please be sure to check the website often for) Tj T* 0 Tw 2.767822 Tw (announcments, deliverable deadlines, project resource, and useful tips as your) Tj T* 0 Tw .546399 Tw (projects progress throughout the semester. Content changes on the website will be) Tj T* 0 Tw 2.632533 Tw (tracked through the commit history to the git repository used to manage class) Tj T* 0 Tw 1.105033 Tw (resources by Dr. Palmeri. Significant changes and additions to the website will be) Tj T* 0 Tw (announced by email.) Tj T* ET
+BT 1 0 0 1 0 74 Tm 5.640066 Tw 12 TL /F1 10 Tf 0 0 .501961 rg (http://mlp6.github.io/Medical-Instrument-Design/ ) Tj 0 0 0 rg (This website is actually a git) Tj T* 0 Tw 1.750866 Tw (repository hosted and rendered by GitHub! Please be sure to check the website) Tj T* 0 Tw .767039 Tw (often for announcments, deliverable deadlines, project resource, and useful tips as) Tj T* 0 Tw 1.434039 Tw (your projects progress throughout the semester. Content changes on the website) Tj T* 0 Tw .0736 Tw (will be tracked through the commit history to the git repository used to manage class) Tj T* 0 Tw 1.105033 Tw (resources by Dr. Palmeri. Significant changes and additions to the website will be) Tj T* 0 Tw (announced by email.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 452.0236 cm
+1 0 0 1 62.69291 413.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -342,7 +363,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 413.0236 cm
+1 0 0 1 62.69291 374.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -363,7 +384,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 386.0236 cm
+1 0 0 1 62.69291 347.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -383,7 +404,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 359.0236 cm
+1 0 0 1 62.69291 320.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -404,7 +425,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 344.0236 cm
+1 0 0 1 62.69291 305.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -425,10 +446,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 338.0236 cm
+1 0 0 1 62.69291 299.0236 cm
 Q
 q
-1 0 0 1 62.69291 176.0236 cm
+1 0 0 1 62.69291 137.0236 cm
 1 1 1 rg
 n 0 162 469.8898 -18 re f*
 .878431 .878431 .878431 rg
@@ -592,10 +613,10 @@ n 469.8898 0 m 469.8898 162 l S
 Q
 Q
 q
-1 0 0 1 62.69291 176.0236 cm
+1 0 0 1 62.69291 137.0236 cm
 Q
 q
-1 0 0 1 62.69291 170.0236 cm
+1 0 0 1 62.69291 131.0236 cm
 Q
  
 endstream
@@ -791,27 +812,27 @@ xref
 0000000831 00000 n
 0000001075 00000 n
 0000001313 00000 n
-0000001556 00000 n
-0000001735 00000 n
-0000002072 00000 n
-0000002320 00000 n
-0000002622 00000 n
-0000002781 00000 n
-0000003060 00000 n
-0000003176 00000 n
-0000011776 00000 n
-0000015505 00000 n
-0000015588 00000 n
-0000015694 00000 n
-0000015771 00000 n
+0000001567 00000 n
+0000001746 00000 n
+0000002083 00000 n
+0000002331 00000 n
+0000002633 00000 n
+0000002792 00000 n
+0000003071 00000 n
+0000003187 00000 n
+0000012380 00000 n
+0000016109 00000 n
+0000016192 00000 n
+0000016298 00000 n
+0000016375 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\207\342\316\236\022\240\330\213\344\303\366\267G\025\352\250) (\207\342\316\236\022\240\330\213\344\303\366\267G\025\352\250)] 
+ [(k\265H\325\343W$\261J\013\325qB\203\360h) (k\265H\325\343W$\261J\013\325qB\203\360h)] 
 
  /Info 13 0 R
  /Root 12 0 R
  /Size 21 >>
 startxref
-15818
+16422
 %%EOF
