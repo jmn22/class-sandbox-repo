@@ -1,8 +1,8 @@
 BME464L Project (Fall 2013, Palmeri)
 ====================================
 
-Bispectral Index (BIS) Monitor
---------------------------------
+Bispectral Index (BIS) Depth-of-Consciousness Monitor
+-----------------------------------------------------
 
 ### Clinical Problem ###
 Bispectral index (BIS) monitors are used to monitor the depth of anesthesia
