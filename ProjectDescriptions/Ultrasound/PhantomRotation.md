@@ -23,7 +23,7 @@ the ability to notify a user when rotation is complete or has been aborted.
 This project can also involve the mechanical design and fabrication of the
 rotation transmission mechanism and phantom holding apparatus.
 
-### Clinical Contact ###
+### Research Contact ###
 
 Dr. Mark Palmeri, M.D., Ph.D.  ([mark.palmeri@duke.edu](mailto:mark.palmeri@duke.edu))
 
