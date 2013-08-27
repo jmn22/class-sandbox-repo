@@ -14,47 +14,149 @@ Class Syllabus (Fall 2013, Palmeri)
 
 :Lab: Thursday from 16:40 - 19:40 in P012 Teer
 
-:Class Schedule: All class activites are being managed in a Google Calendar that is linked to the class website listed below.  XML, iCal and HTML links are available to make this calendar accessible in your calendar service of choice.
+:Class Schedule: 
 
-:Class Website: http://mlp6.github.io/Medical-Instrument-Design/  This website is actually
-                a git repository hosted and rendered by GitHub! Please be sure
-                to check the website often for announcments, deliverable
-                deadlines, project resource, and useful tips as your projects
-                progress throughout the semester.  Content changes on the
-                website will be tracked through the commit history to the git
-                repository used to manage class resources by Dr. Palmeri.
-                Significant changes and additions to the website will be
-                announced by email.
+All class activites are being managed in a Google Calendar that is linked to
+the class website listed below.  XML, iCal and HTML links are available to make
+this calendar accessible in your calendar service of choice.
 
-:Attendance: Lecture / lab attendance _and_ participation count for 10% of your class grade.  I understand that students will have to miss class / lab for job and school interviews, personal reasons, illness, etc.  Absences will be considered *excused* if they are communicated to Dr. Palmeri at least 48 hours in advance or through submission of Short Term Illness Form (STIF) [ADD URL HERE!!].   Unexcused absences will count against the attendance and participation component of your class grade.
+:Class Website: http://mlp6.github.io/Medical-Instrument-Design/  
+                
+This website is actually a git repository hosted and rendered by GitHub! Please
+be sure to check the website often for announcments, deliverable deadlines,
+project resource, and useful tips as your projects progress throughout the
+semester.  Content changes on the website will be tracked through the commit
+history to the git repository used to manage class resources by Dr. Palmeri.
+Significant changes and additions to the website will be announced by email.
 
-:Office Hours: Dr. Palmeri has scheduled office hours on XXXX from XXXX to XXXX.  Other days / times are always available by appointment, and there is an open-door policy active all semester (i.e., if my office door is open, then you are welcome to pop in).
+:Course Objectives: 
 
-:Textbooks & References: Coming Soon!
+The course is a culmination of the knowledge and engineering skills that you
+have developed over the past 3 years.  You will learn some new tools in design
+brainstorming, project mangement, and software version control.  You are
+expected to present a coherent design plan and analysis to support the final
+project that you deliver at the end of the semester.  Some specific course
+objectives include:
 
-:Electronic Lab Notebooks: LabArchives or GitHub
+ * Develop a plan for building an instrument to serve a particular need
+ * Draw a schematic and block diagram of a proposed project 
+ * Present a project proposal to a group 
+ * Find electronic parts using specifications
+ * Write and debug code for a microcontroller 
+ * Design software to control temporal processes 
+ * Manage software with a version control system
+ * Build an electronic medical instrument
+ * Calibrate an instrument
+ * Create a test environment for an instrument 
+ * Present technical work to a group
+ * Work in teams of four to complete a sizable project 
+ * Understand ethical issues related to medical instrumentation 
+ * Apply appropriate statistical methods during the design process 
 
-:Grading: The following grading scheme is subject to change as the semester progresses.
+:Attendance: 
 
-+------------------------------------+-----+
-| Attendance & Participation         | 10% |
-+------------------------------------+-----+
-| Progress Report #1 & Presentation  | 10% |
-+------------------------------------+-----+
-| Progress Report #2 & Presentation  | 10% | 
-+------------------------------------+-----+
-| Final Code (git) & Documentation   | 10% |
-+------------------------------------+-----+
-| Final Device Function              | 15% |
-+------------------------------------+-----+
-| Final Report                       | 15% |
-+------------------------------------+-----+
-| Final Device User Manual           | 10% |
-+------------------------------------+-----+
-| Final Presentation                 | 10% |
-+------------------------------------+-----+
-| Final Poster                       | 10% |
-+------------------------------------+-----+
+Lecture / lab attendance and participation count for 10% of your class grade.
+I understand that students will have to miss class / lab for job and school
+interviews, personal reasons, illness, etc.  Absences will be considered
+*excused* if they are communicated to Dr. Palmeri at least 48 hours in advance
+or through submission of [Short Term Illness Form
+(STIF)](http://www.pratt.duke.edu/undergrad/policies/3531) *before* class or
+lab.   Unexcused absences will count against the attendance and participation
+component of your class grade.
+
+:Office Hours: 
+
+Dr. Palmeri will have office hours by appointment (Monday and Wednesday are the
+best days of the week).  Other days / times are always available by
+appointment, and there is an open-door policy active all semester (i.e., if my
+office door is open, then you are welcome to pop in).  Dongwoon will also be
+available, as needed, to help with all aspects of your projects throughout the
+semester.
+
+:Textbooks & References: 
+
+There are no required textbooks for this class.  However, if you are looking
+for a good overview of microcontrollers, as presented in the context of the
+Arduino, then I recommend that you consider looking at Jeremy Blum's [Exploring
+Arduino](http://exploringarduino.com/).  There are also many resources online,
+some of which are summarized on [BME354L: Introduction to Medical
+Instrumentation](http://mlp6.github.io/Intro-Medical-Instrumentation/).
+
+:Electronic Lab Notebooks (ELN): 
+
+LabArchives with be used for this course, with one shared notebook being used
+for each project group.  Your ELN is one of your primary ways to demonstrate
+and document your entire design process, including brainstorming of design
+ideas, formal engineering analysis to justify your deisgn choices, testing
+procedures, and performance analysis.  Some guidelines for your ELN:
+
+ * Block diagrams of the device and submodules in the device should be
+   presented.
+ * Signal processing and software algorithm logic should be documentented, and
+   the associated code should be specifically referenced by the appropriate git
+   repository URL and SHA1 hash(es).
+ * Choice of electronic components should be supported by an analysis (when
+   appropriate) that includes considerations such as power, bandwidth, SNR,
+   etc. that could impact performance in your device.
+ * Formal circuit schematics should be drawn and properly annotated for all
+   electronic circuits.
+ * Component datasheets, user manuals, etc. should be included.
+ * Mechanical drawings, SolidWorks renderings, etc. should be included.
+ * All measurements made during debugging and testing should be recorn, units,
+   and estimates of uncertainty.  summarized.  Data should be recorded with the
+   appropriate precision, units, and estimates of uncertainty.
+ * A copy of all reports and slides should be saved.  * All software associated
+   with your device, along with relevant documentation, should be maintained in
+   your group's git repository.  A tar / zip archive of your final software
+   repository should be saved in your ELN.
+
+:Distributed Version Control Software (git):
+
+Software management is a ubiquitous issue in any microcontroller engineering project, and this task becomes increasingly difficult during group development.  Version control software has many benefits and uses in software development, including preservation of version during the development process, the ability for multiple contributers and reviewers on a project, the ability to tag "releases" of code, and the ability to branch code into different functional branches.  We will be using GitHub to centrally host our git repositories, with one repository existing for each project.  Some guidelines for using your gitrepositories:
+
+ * **All** software additions, modifications, bug-fixes, etc. need to be done
+   in your repository.
+ * The "Issues" feature of your repository should be used as a "to do" list of
+   software-related items, including feature enhancements, and bugs that are
+   discovered.
+ * There are several mangement models that we will review in class, with the
+   major distinctions being individual user forks of the master repository, or
+   a single mutli-write-user repository.  We will review these different
+   management models in class, after which your group should choose one and
+   stick with it.
+ * Dr. Palmeri will only review code that is committed to your master
+   repository or your personal fork of that repository.
+ * All of the commits associated with your repository are logged with your name
+   and a timestamp, and these cannot be modified.  Use descriptive commit
+   messages so that your group members, Dr. Palmeri, Matt Brown and Dongwoon
+   can figure out what you have done!!  You should not need to email group
+   members when you have performed a commit; your commit message(s) should
+   speak for themselves.
+ * Code milestones should be properly tagged.
+ * Write software testing routines early in the development process so that
+   anyone in your group or an outsider reviewing your code can be convinced
+   that it is working as intended.
+ * Comment, comment, comment.
+ * Modular, modular, modular.
+ * Make commits small and logical; do them often!
+
+:Grading: 
+
+The following grading scheme is subject to change as the semester progresses.
+
++-----------------------------------------+-----+
+| Attendance & Participation              | 10% |
++-----------------------------------------+-----+
+| ELN & GitHub Repository (weekly review) | 30% |
++-----------------------------------------+-----+
+| Progress Reports & Presentations        | 20% |
++-----------------------------------------+-----+
+| Final Device (Function & Packaging)     | 15% |
++-----------------------------------------+-----+
+| Final Report & Documentation            | 15% |
++-----------------------------------------+-----+
+| Final Presentation & Poster             | 10% |
++-----------------------------------------+-----+
 
 :Duke Community Standard & Academic Honor: 
 
@@ -72,15 +174,3 @@ Class Syllabus (Fall 2013, Palmeri)
     Please do not hesitate to talk with Dr. Palmeri about any situations
     involving academic honor, especially if it is ambiguous what should be
     done.
-
-:Words of "Wisdom":
-    * Do **not** procrastinate on your projects.  It might appear that you have
-      the entire semester to design and build your device, but you actually
-      have less-than 8 weeks.
-
-    * Document everything in your electronic lab notebook.  You never know what
-      small detail you may need to remember in the future.
-
-    * Try to test code **before** you upload it onto your microcontroller.
-
-    * With respect to git: commit, commit, commit!!  Make changes and additions small and modular.
