@@ -4,8 +4,6 @@ BME464L: Medical Instrument Design
 Class / Lab Schedule (Fall 2013, Palmeri)
 ------------------------------------------
 
-COMING SOON!
-
 :Lecture: Tuesday and Thursday from 11:45 - 13:00 in 201 Hudson Hall
 
 :Lab: Thursday from 16:40 - 19:40 in P012 Teer
@@ -24,4 +22,4 @@ Topics:
 
 * FDA / Regulatory / Safety
 
-
+* Project Brainstorming
