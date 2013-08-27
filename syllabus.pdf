@@ -5,7 +5,7 @@
 % The standard fonts dictionary
 << /F1 2 0 R
  /F2 3 0 R
- /F3 9 0 R >>
+ /F3 10 0 R >>
 endobj
 % 'F1': class PDFType1Font 
 2 0 obj
@@ -79,25 +79,41 @@ endobj
  0
  0 ]
  /Rect [ 153.7323
- 527.7736
- 526.5827
- 539.7736 ]
+ 539.7736
+ 374.4523
+ 551.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class PDFDictionary 
+8 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://sakai.duke.edu) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 248.7823
+ 467.7736
+ 276.5723
+ 479.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Page1': class PDFPage 
-8 0 obj
+9 0 obj
 % Page dictionary
 << /Annots [ 4 0 R
  5 0 R
  6 0 R
- 7 0 R ]
- /Contents 19 0 R
+ 7 0 R
+ 8 0 R ]
+ /Contents 25 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 18 0 R
+ /Parent 24 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -109,7 +125,7 @@ endobj
  /Type /Page >>
 endobj
 % 'F3': class PDFType1Font 
-9 0 obj
+10 0 obj
 % Font Helvetica-Oblique
 << /BaseFont /Helvetica-Oblique
  /Encoding /WinAnsiEncoding
@@ -117,33 +133,18 @@ endobj
  /Subtype /Type1
  /Type /Font >>
 endobj
-% 'Annot.NUMBER5': class PDFDictionary 
-10 0 obj
+% 'Annot.NUMBER6': class PDFDictionary 
+11 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.pratt.duke.edu/undergrad/policies/3531) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 275.0341
- 717.7736
- 497.9241
- 729.7736 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-% 'Annot.NUMBER6': class PDFDictionary 
-11 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://exploringarduino.com/) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 229.6648
- 543.7736
- 353.0548
- 555.7736 ]
+ /Rect [ 223.1933
+ 705.7736
+ 372.6452
+ 717.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -151,29 +152,60 @@ endobj
 12 0 obj
 << /A << /S /URI
  /Type /Action
+ /URI (http://exploringarduino.com/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 413.1546
+ 579.7736
+ 493.4886
+ 591.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER8': class PDFDictionary 
+13 0 obj
+<< /A << /S /URI
+ /Type /Action
  /URI (http://mlp6.github.io/Intro-Medical-Instrumentation/) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 137.7229
- 519.7736
- 360.5929
- 531.7736 ]
+ /Rect [ 479.8927
+ 567.7736
+ 524.1636
+ 579.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER9': class PDFDictionary 
+14 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://mlp6.github.io/Intro-Medical-Instrumentation/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 153.7323
+ 555.7736
+ 326.0323
+ 567.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Page2': class PDFPage 
-13 0 obj
+15 0 obj
 % Page dictionary
-<< /Annots [ 10 0 R
- 11 0 R
- 12 0 R ]
- /Contents 20 0 R
+<< /Annots [ 11 0 R
+ 12 0 R
+ 13 0 R
+ 14 0 R ]
+ /Contents 26 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 18 0 R
+ /Parent 24 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -184,31 +216,98 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'Annot.NUMBER8': class PDFDictionary 
-14 0 obj
+% 'Annot.NUMBER10': class PDFDictionary 
+16 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.solidworks.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 416.4054
+ 255.7736
+ 466.9654
+ 267.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER11': class PDFDictionary 
+17 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://studentshop.pratt.duke.edu/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 355.9792
+ 243.7736
+ 488.1018
+ 255.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page3': class PDFPage 
+18 0 obj
+% Page dictionary
+<< /Annots [ 16 0 R
+ 17 0 R ]
+ /Contents 27 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 24 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER12': class PDFDictionary 
+19 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.integrity.duke.edu/standard.html) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 206.8544
- 162.7736
- 408.3664
- 174.7736 ]
+ /Rect [ 446.6218
+ 663.7736
+ 523.3018
+ 675.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Page3': class PDFPage 
-15 0 obj
+% 'Annot.NUMBER13': class PDFDictionary 
+20 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.integrity.duke.edu/standard.html) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 153.7323
+ 651.7736
+ 194.3123
+ 663.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page4': class PDFPage 
+21 0 obj
 % Page dictionary
-<< /Annots [ 14 0 R ]
- /Contents 21 0 R
+<< /Annots [ 19 0 R
+ 20 0 R ]
+ /Contents 28 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 18 0 R
+ /Parent 24 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -219,38 +318,39 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'R16': class PDFCatalog 
-16 0 obj
+% 'R22': class PDFCatalog 
+22 0 obj
 % Document Root
-<< /Outlines 22 0 R
- /PageLabels 23 0 R
+<< /Outlines 29 0 R
+ /PageLabels 30 0 R
  /PageMode /UseNone
- /Pages 18 0 R
+ /Pages 24 0 R
  /Type /Catalog >>
 endobj
-% 'R17': class PDFInfo 
-17 0 obj
+% 'R23': class PDFInfo 
+23 0 obj
 << /Author ()
- /CreationDate (D:20130827003708+05'00')
+ /CreationDate (D:20130827012203+05'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
  /Subject (\(unspecified\))
  /Title (BME464L: Medical Instrument Design) >>
 endobj
-% 'R18': class PDFPages 
-18 0 obj
+% 'R24': class PDFPages 
+24 0 obj
 % page tree
-<< /Count 3
- /Kids [ 8 0 R
- 13 0 R
- 15 0 R ]
+<< /Count 4
+ /Kids [ 9 0 R
+ 15 0 R
+ 18 0 R
+ 21 0 R ]
  /Type /Pages >>
 endobj
-% 'R19': class PDFStream 
-19 0 obj
+% 'R25': class PDFStream 
+25 0 obj
 % page stream
-<< /Length 9752 >>
+<< /Length 9708 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -370,35 +470,32 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 587.0236 cm
+1 0 0 1 62.69291 551.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 39 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 46.35937 0 Td (Class) Tj T* -21.11 0 Td (Schedule:) Tj T* -25.24937 0 Td ET
 Q
 Q
 q
-Q
-Q
-q
-1 0 0 1 62.69291 545.0236 cm
+1 0 0 1 91.03937 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .106098 Tw (All class activites are being managed in a Google Calendar that is linked to the class website listed below.) Tj T* 0 Tw 1.75436 Tw (XML, iCal and HTML links are available to make this calendar accessible in your calendar service of) Tj T* 0 Tw (choice.) Tj T* ET
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 1.620742 Tw (All class activities are being managed in a Google Calendar that is linked to the) Tj T* 0 Tw 1.6208 Tw (class website listed below. XML, iCal and HTML links are available to make this) Tj T* 0 Tw 2.266399 Tw (calendar accessible in your calendar service of choice. Specific lecture and lab) Tj T* 0 Tw 1.188492 Tw (details, along with deliverable due dates will be posted on this calendar, and new) Tj T* 0 Tw (due dates will be announced in lecture and by class email.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 539.0236 cm
+Q
 Q
 q
-1 0 0 1 62.69291 524.0236 cm
+1 0 0 1 62.69291 464.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 75 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 1.90937 0 Td (Class Website:) Tj T* -1.90937 0 Td ET
@@ -407,61 +504,38 @@ Q
 q
 1 0 0 1 91.03937 3 cm
 q
-0 0 .501961 rg
-0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://mlp6.github.io/Medical-Instrument-Design/) Tj T* ET
+BT 1 0 0 1 0 74 Tm 5.640066 Tw 12 TL /F1 10 Tf 0 0 .501961 rg (http://mlp6.github.io/Medical-Instrument-Design/ ) Tj 0 0 0 rg (This website is actually a git) Tj T* 0 Tw 1.750866 Tw (repository hosted and rendered by GitHub! Please be sure to check the website) Tj T* 0 Tw .211039 Tw (often for announcements, deliverable deadlines, project resource, and useful tips as) Tj T* 0 Tw 1.434039 Tw (your projects progress throughout the semester. Content changes on the website) Tj T* 0 Tw .0736 Tw (will be tracked through the commit history to the git repository used to manage class) Tj T* 0 Tw 1.105033 Tw (resources by Dr. Palmeri. Significant changes and additions to the website will be) Tj T* 0 Tw (announced by email. ) Tj 0 0 .501961 rg (Sakai ) Tj 0 0 0 rg (will also be used to post grades.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 458.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 1.648221 Tw (This website is actually a git repository hosted and rendered by GitHub! Please be sure to check the) Tj T* 0 Tw .616136 Tw (website often for announcments, deliverable deadlines, project resource, and useful tips as your projects) Tj T* 0 Tw 1.207126 Tw (progress throughout the semester. Content changes on the website will be tracked through the commit) Tj T* 0 Tw 1.869318 Tw (history to the git repository used to manage class resources by Dr. Palmeri. Significant changes and) Tj T* 0 Tw (additions to the website will be announced by email.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 452.0236 cm
-Q
-q
-1 0 0 1 62.69291 425.0236 cm
+1 0 0 1 62.69291 149.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 291 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 38.58937 0 Td (Course) Tj T* -19.46 0 Td (Objectives:) Tj T* -19.12937 0 Td ET
 Q
 Q
 q
-Q
-Q
-q
-1 0 0 1 62.69291 371.0236 cm
+1 0 0 1 91.03937 255 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.263735 Tw (The course is a culmination of the knowledge and engineering skills that you have developed over the) Tj T* 0 Tw 1.202651 Tw (past 3 years. You will learn some new tools in design brainstorming, project mangement, and software) Tj T* 0 Tw 1.644985 Tw (version control. You are expected to present a coherent design plan and analysis to support the final) Tj T* 0 Tw (project that you deliver at the end of the semester. Some specific course objectives include:) Tj T* ET
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .846953 Tw (The course is a culmination of the knowledge and engineering skills that you have) Tj T* 0 Tw 3.883107 Tw (developed over the past 3 years. You will learn some new tools in design) Tj T* 0 Tw .113377 Tw (brainstorming, project management, and software version control. You are expected) Tj T* 0 Tw .705028 Tw (to present a coherent design plan and analysis to support the final project that you) Tj T* 0 Tw (deliver at the end of the semester. Some specific course objectives include:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 365.0236 cm
+1 0 0 1 91.03937 249 cm
 Q
 q
-1 0 0 1 62.69291 113.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 0 0 1 20 246 cm
+1 0 0 1 91.03937 249 cm
 Q
 q
-1 0 0 1 20 246 cm
-Q
-q
-1 0 0 1 20 234 cm
+1 0 0 1 91.03937 237 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -482,10 +556,10 @@ q
 Q
 Q
 q
-1 0 0 1 20 228 cm
+1 0 0 1 91.03937 231 cm
 Q
 q
-1 0 0 1 20 216 cm
+1 0 0 1 91.03937 219 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -506,10 +580,10 @@ q
 Q
 Q
 q
-1 0 0 1 20 210 cm
+1 0 0 1 91.03937 213 cm
 Q
 q
-1 0 0 1 20 198 cm
+1 0 0 1 91.03937 201 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -530,10 +604,10 @@ q
 Q
 Q
 q
-1 0 0 1 20 192 cm
+1 0 0 1 91.03937 195 cm
 Q
 q
-1 0 0 1 20 180 cm
+1 0 0 1 91.03937 183 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -554,10 +628,10 @@ q
 Q
 Q
 q
-1 0 0 1 20 174 cm
+1 0 0 1 91.03937 177 cm
 Q
 q
-1 0 0 1 20 162 cm
+1 0 0 1 91.03937 165 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -578,10 +652,10 @@ q
 Q
 Q
 q
-1 0 0 1 20 156 cm
+1 0 0 1 91.03937 159 cm
 Q
 q
-1 0 0 1 20 144 cm
+1 0 0 1 91.03937 147 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -602,10 +676,10 @@ q
 Q
 Q
 q
-1 0 0 1 20 138 cm
+1 0 0 1 91.03937 141 cm
 Q
 q
-1 0 0 1 20 126 cm
+1 0 0 1 91.03937 129 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -626,10 +700,10 @@ q
 Q
 Q
 q
-1 0 0 1 20 120 cm
+1 0 0 1 91.03937 123 cm
 Q
 q
-1 0 0 1 20 108 cm
+1 0 0 1 91.03937 111 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -650,10 +724,10 @@ q
 Q
 Q
 q
-1 0 0 1 20 102 cm
+1 0 0 1 91.03937 105 cm
 Q
 q
-1 0 0 1 20 90 cm
+1 0 0 1 91.03937 93 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -674,10 +748,10 @@ q
 Q
 Q
 q
-1 0 0 1 20 84 cm
+1 0 0 1 91.03937 87 cm
 Q
 q
-1 0 0 1 20 72 cm
+1 0 0 1 91.03937 75 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -698,10 +772,10 @@ q
 Q
 Q
 q
-1 0 0 1 20 66 cm
+1 0 0 1 91.03937 69 cm
 Q
 q
-1 0 0 1 20 54 cm
+1 0 0 1 91.03937 57 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -722,10 +796,10 @@ q
 Q
 Q
 q
-1 0 0 1 20 48 cm
+1 0 0 1 91.03937 51 cm
 Q
 q
-1 0 0 1 20 36 cm
+1 0 0 1 91.03937 39 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -746,10 +820,10 @@ q
 Q
 Q
 q
-1 0 0 1 20 30 cm
+1 0 0 1 91.03937 33 cm
 Q
 q
-1 0 0 1 20 18 cm
+1 0 0 1 91.03937 21 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -770,10 +844,10 @@ q
 Q
 Q
 q
-1 0 0 1 20 12 cm
+1 0 0 1 91.03937 15 cm
 Q
 q
-1 0 0 1 20 0 cm
+1 0 0 1 91.03937 3 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -794,27 +868,7 @@ q
 Q
 Q
 q
-1 0 0 1 20 0 cm
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 113.0236 cm
-Q
-q
-1 0 0 1 62.69291 107.0236 cm
-Q
-q
-1 0 0 1 62.69291 92.02362 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 15.25937 0 Td (Attendance:) Tj T* -15.25937 0 Td ET
-Q
+1 0 0 1 91.03937 3 cm
 Q
 q
 Q
@@ -822,108 +876,102 @@ Q
  
 endstream
 endobj
-% 'R20': class PDFStream 
-20 0 obj
+% 'R26': class PDFStream 
+26 0 obj
 % page stream
-<< /Length 8061 >>
+<< /Length 7905 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 693.0236 cm
-q
-BT 1 0 0 1 0 62 Tm .844985 Tw 12 TL /F1 10 Tf 0 0 0 rg (Lecture / lab attendance and participation count for 10% of your class grade. I understand that students) Tj T* 0 Tw .354987 Tw (will have to miss class / lab for job and school interviews, personal reasons, illness, etc. Absences will be) Tj T* 0 Tw 1.647485 Tw (considered ) Tj /F3 10 Tf (excused ) Tj /F1 10 Tf (if they are communicated to Dr. Palmeri at least 48 hours in advance or through) Tj T* 0 Tw .198538 Tw (submission of [Short Term Illness Form \(STIF\)]\() Tj 0 0 .501961 rg (http://www.pratt.duke.edu/undergrad/policies/3531) Tj 0 0 0 rg (\) ) Tj /F3 10 Tf (before) Tj T* 0 Tw .610697 Tw /F1 10 Tf (class or lab. Unexcused absences will count against the attendance and participation component of your) Tj T* 0 Tw (class grade.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 687.0236 cm
-Q
-q
-1 0 0 1 62.69291 672.0236 cm
+1 0 0 1 62.69291 678.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 15.25937 0 Td (Attendance:) Tj T* -15.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 74 Tm 1.182171 Tw 12 TL /F1 10 Tf 0 0 0 rg (Lecture / lab attendance and participation count for 10% of your class grade. It is) Tj T* 0 Tw 1.2636 Tw (very understandable that students will have to miss class / lab for job and school) Tj T* 0 Tw 1.438039 Tw (interviews, personal reasons, illness, etc. Absences will be considered ) Tj /F3 10 Tf (excused ) Tj /F1 10 Tf (if) Tj T* 0 Tw 2.216184 Tw (they are communicated to Dr. Palmeri at least 48 hours in advance or through) Tj T* 0 Tw 2.77549 Tw (submission of ) Tj 0 0 .501961 rg (Short Term Illness Form \(STIF\)) Tj 0 0 0 rg ( ) Tj /F3 10 Tf (before ) Tj /F1 10 Tf (class or lab. Unexcused) Tj T* 0 Tw 2.044039 Tw (absences will count against the attendance and participation component of your) Tj T* 0 Tw (class grade.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 615.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 51 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 9.69937 0 Td (Office Hours:) Tj T* -9.69937 0 Td ET
 Q
 Q
 q
-Q
-Q
-q
-1 0 0 1 62.69291 618.0236 cm
+1 0 0 1 91.03937 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.821235 Tw (Dr. Palmeri will have office hours by appointment \(Monday and Wednesday are the best days of the) Tj T* 0 Tw .14528 Tw (week\). Other days / times are always available by appointment, and there is an open-door policy active all) Tj T* 0 Tw .013145 Tw (semester \(i.e., if my office door is open, then you are welcome to pop in\). Dongwoon will also be available,) Tj T* 0 Tw (as needed, to help with all aspects of your projects throughout the semester.) Tj T* ET
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .456699 Tw (Dr. Palmeri will have office hours by appointment \(Monday and Wednesday are the) Tj T* 0 Tw 1.489261 Tw (best days of the week\). Other days / times are always available by appointment,) Tj T* 0 Tw .73536 Tw (and there is an open-door policy active all semester \(i.e., if my office door is open,) Tj T* 0 Tw 1.222885 Tw (then you are welcome to pop in\). Dongwoon will also be available, as needed, to) Tj T* 0 Tw (help with all aspects of your projects throughout the semester.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 612.0236 cm
+Q
 Q
 q
-1 0 0 1 62.69291 585.0236 cm
+1 0 0 1 62.69291 552.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 39 cm
 q
 BT 1 0 0 1 0 14 Tm 13.02937 0 Td 12 TL /F2 10 Tf 0 0 0 rg (Textbooks &) Tj T* 2.77 0 Td (References:) Tj T* -15.79937 0 Td ET
 Q
 Q
 q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 50 Tm 1.661457 Tw 12 TL /F1 10 Tf 0 0 0 rg (There are no required textbooks for this class. However, if you are looking for a) Tj T* 0 Tw .205415 Tw (good overview of microcontrollers, as presented in the context of the Arduino, then I) Tj T* 0 Tw 1.414039 Tw (recommend that you consider looking at Jeremy Blum's ) Tj 0 0 .501961 rg (Exploring Arduino) Tj 0 0 0 rg (. There) Tj T* 0 Tw 2.419127 Tw (are also many resources online, some of which are summarized on ) Tj 0 0 .501961 rg (BME354L:) Tj T* 0 Tw (Introduction to Medical Instrumentation) Tj 0 0 0 rg (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 519.0236 cm
-q
-BT 1 0 0 1 0 50 Tm 2.466457 Tw 12 TL /F1 10 Tf 0 0 0 rg (There are no required textbooks for this class. However, if you are looking for a good overview of) Tj T* 0 Tw .607984 Tw (microcontrollers, as presented in the context of the Arduino, then I recommend that you consider looking) Tj T* 0 Tw .002976 Tw (at Jeremy Blum's [Exploring Arduino]\() Tj 0 0 .501961 rg (http://exploringarduino.com/) Tj 0 0 0 rg (\). There are also many resources online,) Tj T* 0 Tw 17.99886 Tw (some of which are summarized on [BME354L: Introduction to Medical) Tj T* 0 Tw (Instrumentation]\() Tj 0 0 .501961 rg (http://mlp6.github.io/Intro-Medical-Instrumentation/) Tj 0 0 0 rg (\).) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 513.0236 cm
-Q
-q
-1 0 0 1 62.69291 474.0236 cm
+1 0 0 1 62.69291 177.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 339 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 26 Tm /F2 10 Tf 12 TL 4.12937 0 Td (Electronic Lab) Tj T* 17.24 0 Td (Notebooks) Tj T* 21.68 0 Td (\(ELN\):) Tj T* -43.04937 0 Td ET
 Q
 Q
 q
-Q
-Q
-q
-1 0 0 1 62.69291 420.0236 cm
+1 0 0 1 91.03937 315 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .98561 Tw (LabArchives with be used for this course, with one shared notebook being used for each project group.) Tj T* 0 Tw .084985 Tw (Your ELN is one of your primary ways to demonstrate and document your entire design process, including) Tj T* 0 Tw 3.86498 Tw (brainstorming of design ideas, formal engineering analysis to justify your deisgn choices, testing) Tj T* 0 Tw (procedures, and performance analysis. Some guidelines for your ELN:) Tj T* ET
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .846953 Tw (LabArchives will be used for this course, with one shared notebook being used for) Tj T* 0 Tw 2.1308 Tw (each project group. Your ELN is one of your primary ways to demonstrate and) Tj T* 0 Tw 3.077822 Tw (document your entire design process, including brainstorming of design ideas,) Tj T* 0 Tw 1.047039 Tw (formal engineering analysis to justify your design choices, testing procedures, and) Tj T* 0 Tw (performance analysis. Some guidelines for your ELN:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 414.0236 cm
+1 0 0 1 91.03937 309 cm
 Q
 q
-1 0 0 1 62.69291 174.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 0 0 1 20 234 cm
+1 0 0 1 91.03937 309 cm
 Q
 q
-1 0 0 1 20 234 cm
-Q
-q
-1 0 0 1 20 222 cm
+1 0 0 1 91.03937 285 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 -3 cm
+1 0 0 1 6 9 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
@@ -933,17 +981,17 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Block diagrams of the device and submodules in the device should be presented.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.710036 Tw (Block diagrams of the device and submodules in the device should be) Tj T* 0 Tw (presented.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 20 216 cm
+1 0 0 1 91.03937 279 cm
 Q
 q
-1 0 0 1 20 180 cm
+1 0 0 1 91.03937 243 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -957,17 +1005,17 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.213615 Tw (Signal processing and software algorithm logic should be documentented, and the associated) Tj T* 0 Tw 3.569147 Tw (code should be specifically referenced by the appropriate git repository URL and SHA1) Tj T* 0 Tw (hash\(es\).) Tj T* ET
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .079039 Tw (Signal processing and software algorithm logic should be documented, and the) Tj T* 0 Tw 3.670044 Tw (associated code should be specifically referenced by the appropriate git) Tj T* 0 Tw (repository URL and SHA1 hash\(es\).) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 20 174 cm
+1 0 0 1 91.03937 237 cm
 Q
 q
-1 0 0 1 20 138 cm
+1 0 0 1 91.03937 201 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -981,21 +1029,21 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.34498 Tw (Choice of electronic components should be supported by an analysis \(when appropriate\) that) Tj T* 0 Tw .698314 Tw (includes considerations such as power, bandwidth, SNR, etc. that could impact performance in) Tj T* 0 Tw (your device.) Tj T* ET
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.525039 Tw (Choice of electronic components should be supported by an analysis \(when) Tj T* 0 Tw .33671 Tw (appropriate\) that includes considerations such as power, bandwidth, SNR, etc.) Tj T* 0 Tw (that could impact performance in your device.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 20 132 cm
+1 0 0 1 91.03937 195 cm
 Q
 q
-1 0 0 1 20 120 cm
+1 0 0 1 91.03937 171 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 -3 cm
+1 0 0 1 6 9 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
@@ -1005,17 +1053,17 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Formal circuit schematics should be drawn and properly annotated for all electronic circuits.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.806039 Tw (Formal circuit schematics should be drawn and properly annotated for all) Tj T* 0 Tw (electronic circuits.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 20 114 cm
+1 0 0 1 91.03937 165 cm
 Q
 q
-1 0 0 1 20 102 cm
+1 0 0 1 91.03937 153 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1036,10 +1084,10 @@ q
 Q
 Q
 q
-1 0 0 1 20 96 cm
+1 0 0 1 91.03937 147 cm
 Q
 q
-1 0 0 1 20 84 cm
+1 0 0 1 91.03937 135 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1060,165 +1108,10 @@ q
 Q
 Q
 q
-1 0 0 1 20 78 cm
+1 0 0 1 91.03937 129 cm
 Q
 q
-1 0 0 1 20 42 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 21 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .343059 Tw (All measurements made during debugging and testing should be recorn, units, and estimates of) Tj T* 0 Tw 1.872706 Tw (uncertainty. summarized. Data should be recorded with the appropriate precision, units, and) Tj T* 0 Tw (estimates of uncertainty.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 20 36 cm
-Q
-q
-1 0 0 1 20 0 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 21 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.461235 Tw (A copy of all reports and slides should be saved. * All software associated with your device,) Tj T* 0 Tw 1.016412 Tw (along with relevant documentation, should be maintained in your group's git repository. A tar /) Tj T* 0 Tw (zip archive of your final software repository should be saved in your ELN.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 20 0 cm
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 174.0236 cm
-Q
-q
-1 0 0 1 62.69291 168.0236 cm
-Q
-q
-1 0 0 1 62.69291 117.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 38 Tm /F2 10 Tf 12 TL 20.25937 0 Td (Distributed) Tj T* 16.1 0 Td (Version) Tj T* 1.13 0 Td (Control) Tj T* -31.67 0 Td (Software \(git\):) Tj T* -5.81937 0 Td ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 87.02362 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.24229 Tw (Software management is a ubiquitous issue in any microcontroller engineering project, and this task) Tj T* 0 Tw .390814 Tw (becomes increasingly difficult during group development. Version control software has many benefits and) Tj T* 0 Tw ET
-Q
-Q
- 
-endstream
-endobj
-% 'R21': class PDFStream 
-21 0 obj
-% page stream
-<< /Length 9307 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 62.69291 717.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 2.010814 Tw (uses in software development, including preservation of version during the development process, the) Tj T* 0 Tw 1.16528 Tw (ability for multiple contributers and reviewers on a project, the ability to tag "releases" of code, and the) Tj T* 0 Tw .765868 Tw (ability to branch code into different functional branches. We will be using GitHub to centrally host our git) Tj T* 0 Tw (repositories, with one repository existing for each project. Some guidelines for using your gitrepositories:) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 711.0236 cm
-Q
-q
-1 0 0 1 62.69291 411.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 0 0 1 20 294 cm
-Q
-q
-1 0 0 1 20 294 cm
-Q
-q
-1 0 0 1 20 282 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (All ) Tj /F1 10 Tf (software additions, modifications, bug-fixes, etc. need to be done in your repository.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 20 276 cm
-Q
-q
-1 0 0 1 20 252 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 9 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .156235 Tw (The "Issues" feature of your repository should be used as a "to do" list of software-related items,) Tj T* 0 Tw (including feature enhancements, and bugs that are discovered.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 20 246 cm
-Q
-q
-1 0 0 1 20 198 cm
+1 0 0 1 91.03937 81 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1232,17 +1125,179 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.316412 Tw (There are several mangement models that we will review in class, with the major distinctions) Tj T* 0 Tw 1.033059 Tw (being individual user forks of the master repository, or a single mutli-write-user repository. We) Tj T* 0 Tw .859213 Tw (will review these different management models in class, after which your group should choose) Tj T* 0 Tw (one and stick with it.) Tj T* ET
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .135039 Tw (All measurements made during debugging and testing should be recorded with) Tj T* 0 Tw 6.143799 Tw (the appropriate precision, units, and estimates of uncertainty. These) Tj T* 0 Tw .081039 Tw (measurements should be accompanied by a motivation for making them, along) Tj T* 0 Tw (with a summary of your interpretation of the data.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 20 192 cm
+1 0 0 1 91.03937 75 cm
 Q
 q
-1 0 0 1 20 168 cm
+1 0 0 1 91.03937 63 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (A copy of all reports and slides should be saved.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 57 cm
+Q
+q
+1 0 0 1 91.03937 21 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.448933 Tw (All software associated with your device, along with relevant documentation,) Tj T* 0 Tw .755028 Tw (should be maintained in your group's git repository. A tar / zip archive of your) Tj T* 0 Tw (final software repository should be saved in your ELN.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 21 cm
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (We will review ELN content in lecture.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+% 'R27': class PDFStream 
+27 0 obj
+% page stream
+<< /Length 9691 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 318.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 399 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F2 10 Tf 12 TL 20.25937 0 Td (Distributed) Tj T* 16.1 0 Td (Version) Tj T* 1.13 0 Td (Control) Tj T* -31.67 0 Td (Software \(git\):) Tj T* -5.81937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 351 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 86 Tm /F1 10 Tf 12 TL 2.955599 Tw (Software management is a ubiquitous issue in any microcontroller engineering) Tj T* 0 Tw 2.954488 Tw (project, and this task becomes increasingly difficult during group development.) Tj T* 0 Tw 2.436039 Tw (Version control software has many benefits and uses in software development,) Tj T* 0 Tw 2.214039 Tw (including preservation of version during the development process, the ability for) Tj T* 0 Tw .1308 Tw (multiple contributors and reviewers on a project, the ability to tag "releases" of code,) Tj T* 0 Tw 1.316953 Tw (and the ability to branch code into different functional branches. We will be using) Tj T* 0 Tw 1.568366 Tw (GitHub to centrally host our git repositories, with one repository existing for each) Tj T* 0 Tw (project. Some guidelines for using your git repositories:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 345 cm
+Q
+q
+1 0 0 1 91.03937 345 cm
+Q
+q
+1 0 0 1 91.03937 321 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 1.284581 Tw 12 TL /F2 10 Tf 0 0 0 rg (All ) Tj /F1 10 Tf (software additions, modifications, bug-fixes, etc. need to be done in your) Tj T* 0 Tw (repository.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 315 cm
+Q
+q
+1 0 0 1 91.03937 279 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.0986 Tw (The "Issues" feature of your repository should be used as a "to do" list of) Tj T* 0 Tw 2.600049 Tw (software-related items, including feature enhancements, and bugs that are) Tj T* 0 Tw (discovered.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 273 cm
+Q
+q
+1 0 0 1 91.03937 225 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.320866 Tw (There are several management models that we will review in class, with the) Tj T* 0 Tw 2.147309 Tw (major distinctions being individual user forks of the master repository, or a) Tj T* 0 Tw 1.220049 Tw (single mutli-write-user repository. We will review these different management) Tj T* 0 Tw (models in class, after which your group should choose one and stick with it.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 219 cm
+Q
+q
+1 0 0 1 91.03937 195 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1256,21 +1311,21 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.081318 Tw (Dr. Palmeri will only review code that is committed to your master repository or your personal) Tj T* 0 Tw (fork of that repository.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .195415 Tw (Dr. Palmeri will only review code that is committed to your master repository or) Tj T* 0 Tw (your personal fork of that repository.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 20 162 cm
+1 0 0 1 91.03937 189 cm
 Q
 q
-1 0 0 1 20 102 cm
+1 0 0 1 91.03937 117 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 45 cm
+1 0 0 1 6 57 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
@@ -1280,17 +1335,17 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .522651 Tw (All of the commits associated with your repository are logged with your name and a timestamp,) Tj T* 0 Tw .60229 Tw (and these cannot be modified. Use descriptive commit messages so that your group members,) Tj T* 0 Tw 1.334651 Tw (Dr. Palmeri, Matt Brown and Dongwoon can figure out what you have done!! You should not) Tj T* 0 Tw 1.33152 Tw (need to email group members when you have performed a commit; your commit message\(s\)) Tj T* 0 Tw (should speak for themselves.) Tj T* ET
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL .856699 Tw (All of the commits associated with your repository are logged with your name) Tj T* 0 Tw 3.027039 Tw (and a timestamp, and these cannot be modified. Use descriptive commit) Tj T* 0 Tw 4.530039 Tw (messages so that your group members, Dr. Palmeri, Matt Brown and) Tj T* 0 Tw .656953 Tw (Dongwoon can figure out what you have done!! You should not need to email) Tj T* 0 Tw .308039 Tw (group members when you have performed a commit; your commit message\(s\)) Tj T* 0 Tw (should speak for themselves.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 20 96 cm
+1 0 0 1 91.03937 111 cm
 Q
 q
-1 0 0 1 20 84 cm
+1 0 0 1 91.03937 99 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1311,14 +1366,14 @@ q
 Q
 Q
 q
-1 0 0 1 20 78 cm
+1 0 0 1 91.03937 93 cm
 Q
 q
-1 0 0 1 20 54 cm
+1 0 0 1 91.03937 57 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 9 cm
+1 0 0 1 6 21 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
@@ -1328,17 +1383,17 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .113318 Tw (Write software testing routines early in the development process so that anyone in your group or) Tj T* 0 Tw (an outsider reviewing your code can be convinced that it is working as intended.) Tj T* ET
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 3.305039 Tw (Write software testing routines early in the development process so that) Tj T* 0 Tw .017723 Tw (anyone in your group or an outsider reviewing your code can be convinced that) Tj T* 0 Tw (it is working as intended.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 20 48 cm
+1 0 0 1 91.03937 51 cm
 Q
 q
-1 0 0 1 20 36 cm
+1 0 0 1 91.03937 39 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1359,10 +1414,10 @@ q
 Q
 Q
 q
-1 0 0 1 20 30 cm
+1 0 0 1 91.03937 33 cm
 Q
 q
-1 0 0 1 20 18 cm
+1 0 0 1 91.03937 21 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1383,10 +1438,10 @@ q
 Q
 Q
 q
-1 0 0 1 20 12 cm
+1 0 0 1 91.03937 15 cm
 Q
 q
-1 0 0 1 20 0 cm
+1 0 0 1 91.03937 3 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1407,19 +1462,64 @@ q
 Q
 Q
 q
-1 0 0 1 20 0 cm
+1 0 0 1 91.03937 3 cm
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 411.0236 cm
+1 0 0 1 62.69291 300.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (We will review working with git repositories in lecture and lab.) Tj T* ET
+Q
 Q
 q
-1 0 0 1 62.69291 405.0236 cm
+1 0 0 1 62.69291 294.0236 cm
 Q
 q
-1 0 0 1 62.69291 390.0236 cm
+1 0 0 1 62.69291 267.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL .23937 0 Td (Project Details:) Tj T* -0.23937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.001854 Tw (Project details, including budgets, part ordering procedures, etc. will be detailed in) Tj T* 0 Tw (lecture with a separate handout.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 192.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F2 10 Tf 12 TL 18.02937 0 Td (SolidWorks) Tj T* 11.67 0 Td (and Pratt) Tj T* 6.12 0 Td (Student) Tj T* -33.9 0 Td (Machine Shop:) Tj T* -1.91937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 62 Tm .147309 Tw 12 TL /F1 10 Tf 0 0 0 rg (Everyone will be receiving training in the 3D CAD software ) Tj 0 0 .501961 rg (SolidWorks) Tj 0 0 0 rg (. Additionally,) Tj T* 0 Tw 2.350866 Tw (everyone needs to be certified to use the ) Tj 0 0 .501961 rg (Pratt Student Machine Shop) Tj 0 0 0 rg (. Please) Tj T* 0 Tw .419261 Tw (complete the online machine shop training and schedule a time for the safety exam) Tj T* 0 Tw .969199 Tw (with Steve Earp sometime in September!! ) Tj /F2 10 Tf (Note that you cannot just have some) Tj T* 0 Tw 3.055033 Tw (of your group members certified to use the shop; all members must be) Tj T* 0 Tw (certified to pass the class.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 177.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1430,90 +1530,75 @@ BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 31.36937 0 Td (Grading:) Tj T* -31.36937 0 Td 
 Q
 Q
 q
-Q
-Q
-q
-1 0 0 1 62.69291 372.0236 cm
+1 0 0 1 91.03937 3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The following grading scheme is subject to change as the semester progresses.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 366.0236 cm
+Q
 Q
 q
-1 0 0 1 62.69291 258.0236 cm
+1 0 0 1 62.69291 171.0236 cm
+Q
+q
+1 0 0 1 62.69291 81.02362 cm
 1 1 1 rg
-n 0 108 469.8898 -18 re f*
-.878431 .878431 .878431 rg
 n 0 90 469.8898 -18 re f*
-1 1 1 rg
+.878431 .878431 .878431 rg
 n 0 72 469.8898 -18 re f*
-.878431 .878431 .878431 rg
-n 0 54 469.8898 -18 re f*
 1 1 1 rg
-n 0 36 469.8898 -18 re f*
+n 0 54 469.8898 -18 re f*
 .878431 .878431 .878431 rg
+n 0 36 469.8898 -18 re f*
+1 1 1 rg
 n 0 18 469.8898 -18 re f*
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 93 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Attendance & Participation) Tj T* ET
-Q
-Q
-q
-1 0 0 1 424.8148 93 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (10%) Tj T* ET
-Q
-Q
-q
 1 0 0 1 6 75 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (ELN & GitHub Repository \(weekly review\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Attendance & Participation) Tj T* ET
 Q
 Q
 q
 1 0 0 1 424.8148 75 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (30%) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (10%) Tj T* ET
 Q
 Q
 q
 1 0 0 1 6 57 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Progress Reports & Presentations) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (ELN & GitHub Repository \(weekly review\)) Tj T* ET
 Q
 Q
 q
 1 0 0 1 424.8148 57 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (20%) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (30%) Tj T* ET
 Q
 Q
 q
 1 0 0 1 6 39 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Final Device \(Function & Packaging\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Progress Reports & Presentations) Tj T* ET
 Q
 Q
 q
 1 0 0 1 424.8148 39 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (15%) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (20%) Tj T* ET
 Q
 Q
 q
 1 0 0 1 6 21 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Final Report & Documentation) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Final Device \(Function & Packaging\)) Tj T* ET
 Q
 Q
 q
@@ -1523,6 +1608,50 @@ q
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (15%) Tj T* ET
 Q
 Q
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Final Report & Documentation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 424.8148 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (15%) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 0 m 469.8898 0 l S
+n 0 72 m 469.8898 72 l S
+n 0 54 m 469.8898 54 l S
+n 0 36 m 469.8898 36 l S
+n 0 18 m 469.8898 18 l S
+n 418.8148 0 m 418.8148 90 l S
+n 0 90 m 469.8898 90 l S
+n 0 0 m 0 90 l S
+n 469.8898 0 m 469.8898 90 l S
+Q
+Q
+ 
+endstream
+endobj
+% 'R28': class PDFStream 
+28 0 obj
+% page stream
+<< /Length 2054 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+1 1 1 rg
+n 0 18 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 3 cm
 q
@@ -1541,26 +1670,21 @@ q
 1 j
 0 0 0 RG
 .25 w
-n 0 90 m 469.8898 90 l S
-n 0 72 m 469.8898 72 l S
-n 0 54 m 469.8898 54 l S
-n 0 36 m 469.8898 36 l S
 n 0 18 m 469.8898 18 l S
-n 418.8148 0 m 418.8148 108 l S
-n 0 108 m 469.8898 108 l S
+n 418.8148 0 m 418.8148 18 l S
+n 0 0 m 0 18 l S
+n 469.8898 0 m 469.8898 18 l S
 n 0 0 m 469.8898 0 l S
-n 0 0 m 0 108 l S
-n 469.8898 0 m 469.8898 108 l S
 Q
 Q
 q
-1 0 0 1 62.69291 258.0236 cm
+1 0 0 1 62.69291 747.0236 cm
 Q
 q
-1 0 0 1 62.69291 252.0236 cm
+1 0 0 1 62.69291 741.0236 cm
 Q
 q
-1 0 0 1 62.69291 117.0236 cm
+1 0 0 1 62.69291 606.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1579,7 +1703,7 @@ Q
 q
 1 0 0 1 91.03937 33 cm
 q
-BT 1 0 0 1 0 26 Tm 3.280866 Tw 12 TL /F1 10 Tf 0 0 0 rg (All students are expected to adhere to all principles of the Duke Community) Tj T* 0 Tw 6.982079 Tw (Standard: ) Tj 0 0 .501961 rg (http://www.integrity.duke.edu/standard.html ) Tj 0 0 0 rg (Violations of the Duke) Tj T* 0 Tw (Community Standard will be referred immediately to the Office of Student Conduct.) Tj T* ET
+BT 1 0 0 1 0 26 Tm 3.280866 Tw 12 TL /F1 10 Tf 0 0 0 rg (All students are expected to adhere to all principles of the ) Tj 0 0 .501961 rg (Duke Community) Tj T* 0 Tw .827039 Tw (Standard) Tj 0 0 0 rg (. Violations of the Duke Community Standard will be referred immediately) Tj T* 0 Tw (to the Office of Student Conduct.) Tj T* ET
 Q
 Q
 q
@@ -1595,76 +1719,92 @@ Q
  
 endstream
 endobj
-% 'R22': class PDFOutlines 
-22 0 obj
+% 'R29': class PDFOutlines 
+29 0 obj
 << /Count 0
  /Type /Outlines >>
 endobj
-% 'R23': class PDFPageLabels 
-23 0 obj
+% 'R30': class PDFPageLabels 
+30 0 obj
 % Document Root
 << /Nums [ 0
- 24 0 R
+ 31 0 R
  1
- 25 0 R
+ 32 0 R
  2
- 26 0 R ] >>
+ 33 0 R
+ 3
+ 34 0 R ] >>
 endobj
-% 'R24': class PDFPageLabel 
-24 0 obj
+% 'R31': class PDFPageLabel 
+31 0 obj
 % None
 << /S /D
  /St 1 >>
 endobj
-% 'R25': class PDFPageLabel 
-25 0 obj
+% 'R32': class PDFPageLabel 
+32 0 obj
 % None
 << /S /D
  /St 2 >>
 endobj
-% 'R26': class PDFPageLabel 
-26 0 obj
+% 'R33': class PDFPageLabel 
+33 0 obj
 % None
 << /S /D
  /St 3 >>
 endobj
+% 'R34': class PDFPageLabel 
+34 0 obj
+% None
+<< /S /D
+ /St 4 >>
+endobj
 xref
-0 27
+0 35
 0000000000 65535 f
 0000000113 00000 n
-0000000233 00000 n
-0000000398 00000 n
-0000000585 00000 n
-0000000831 00000 n
-0000001075 00000 n
-0000001313 00000 n
-0000001565 00000 n
-0000001890 00000 n
-0000002083 00000 n
-0000002351 00000 n
-0000002598 00000 n
-0000002855 00000 n
-0000003188 00000 n
-0000003436 00000 n
-0000003738 00000 n
-0000003897 00000 n
-0000004176 00000 n
-0000004301 00000 n
-0000014152 00000 n
-0000022312 00000 n
-0000031720 00000 n
-0000031803 00000 n
-0000031922 00000 n
-0000031999 00000 n
-0000032076 00000 n
+0000000234 00000 n
+0000000399 00000 n
+0000000586 00000 n
+0000000832 00000 n
+0000001076 00000 n
+0000001314 00000 n
+0000001580 00000 n
+0000001805 00000 n
+0000002138 00000 n
+0000002332 00000 n
+0000002600 00000 n
+0000002847 00000 n
+0000003118 00000 n
+0000003375 00000 n
+0000003718 00000 n
+0000003963 00000 n
+0000004202 00000 n
+0000004527 00000 n
+0000004790 00000 n
+0000005038 00000 n
+0000005349 00000 n
+0000005508 00000 n
+0000005787 00000 n
+0000005921 00000 n
+0000015728 00000 n
+0000023732 00000 n
+0000033522 00000 n
+0000035677 00000 n
+0000035760 00000 n
+0000035892 00000 n
+0000035969 00000 n
+0000036046 00000 n
+0000036123 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\300d\)\375\372\021Thp\332x$:\031\243\361) (\300d\)\375\372\021Thp\332x$:\031\243\361)] 
+ [(C\366\246-\014b\241\310\2310\233\370\015\316m\230) (C\366\246-\014b\241\310\2310\233\370\015\316m\230)] 
 
- /Info 17 0 R
- /Root 16 0 R
- /Size 27 >>
+ /Info 23 0 R
+ /Root 22 0 R
+ /Size 35 >>
 startxref
-32123
+36170
 %%EOF
