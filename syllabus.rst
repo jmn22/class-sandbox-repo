@@ -14,7 +14,7 @@ Class Syllabus (Fall 2013, Palmeri)
 
 :Lab: Thursday from 16:40 - 19:40 in P012 Teer
 
-:Class Schedule: All class activities are being managed in a Google Calendar that is linked to the class website listed below.  XML, iCal and HTML links are available to make this calendar accessible in your calendar service of choice.  Specific lecture and lab details, along with deliverable due dates will be posted on this calendar, and new due dates will be announced in lecture and by class email.
+:Class Schedule: All class activities are being managed in a Google Calendar that is linked to the class website listed below.  XML, iCal and HTML links are available to make this calendar accessible in your calendar service of choice.  Specific lecture and lab details, along with deliverable due dates will be posted on this calendar, and new due dates will be announced in lecture and by class `email <bme464l-01l-f2013@duke.edu>`_.
 
 :Class Website: http://mlp6.github.io/Medical-Instrument-Design/  This website is actually a git repository hosted and rendered by GitHub! Please be sure to check the website often for announcements, deliverable deadlines, project resource, and useful tips as your projects progress throughout the semester.  Content changes on the website will be tracked through the commit history to the git repository used to manage class resources by Dr. Palmeri.  Significant changes and additions to the website will be announced by class `email <bme464l-01l-f2013@duke.edu>`_.  `Sakai <http://sakai.duke.edu>`_ will also be used to post grades.
 

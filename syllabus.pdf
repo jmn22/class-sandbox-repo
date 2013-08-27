@@ -5,7 +5,7 @@
 % The standard fonts dictionary
 << /F1 2 0 R
  /F2 3 0 R
- /F3 11 0 R >>
+ /F3 12 0 R >>
 endobj
 % 'F1': class PDFType1Font 
 2 0 obj
@@ -74,6 +74,21 @@ endobj
 7 0 obj
 << /A << /S /URI
  /Type /Action
+ /URI (mailto:bme464l-01l-f2013@duke.edu) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 384.9623
+ 554.7736
+ 408.8523
+ 566.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class PDFDictionary 
+8 0 obj
+<< /A << /S /URI
+ /Type /Action
  /URI (http://mlp6.github.io/Medical-Instrument-Design/) >>
  /Border [ 0
  0
@@ -85,8 +100,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER5': class PDFDictionary 
-8 0 obj
+% 'Annot.NUMBER6': class PDFDictionary 
+9 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (mailto:bme464l-01l-f2013@duke.edu) >>
@@ -100,8 +115,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER6': class PDFDictionary 
-9 0 obj
+% 'Annot.NUMBER7': class PDFDictionary 
+10 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://sakai.duke.edu) >>
@@ -116,20 +131,21 @@ endobj
  /Type /Annot >>
 endobj
 % 'Page1': class PDFPage 
-10 0 obj
+11 0 obj
 % Page dictionary
 << /Annots [ 4 0 R
  5 0 R
  6 0 R
  7 0 R
  8 0 R
- 9 0 R ]
- /Contents 26 0 R
+ 9 0 R
+ 10 0 R ]
+ /Contents 27 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 25 0 R
+ /Parent 26 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -141,7 +157,7 @@ endobj
  /Type /Page >>
 endobj
 % 'F3': class PDFType1Font 
-11 0 obj
+12 0 obj
 % Font Helvetica-Oblique
 << /BaseFont /Helvetica-Oblique
  /Encoding /WinAnsiEncoding
@@ -149,8 +165,8 @@ endobj
  /Subtype /Type1
  /Type /Font >>
 endobj
-% 'Annot.NUMBER7': class PDFDictionary 
-12 0 obj
+% 'Annot.NUMBER8': class PDFDictionary 
+13 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.pratt.duke.edu/undergrad/policies/3531) >>
@@ -164,8 +180,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER8': class PDFDictionary 
-13 0 obj
+% 'Annot.NUMBER9': class PDFDictionary 
+14 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://exploringarduino.com/) >>
@@ -179,8 +195,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER9': class PDFDictionary 
-14 0 obj
+% 'Annot.NUMBER10': class PDFDictionary 
+15 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://mlp6.github.io/Intro-Medical-Instrumentation/) >>
@@ -194,8 +210,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER10': class PDFDictionary 
-15 0 obj
+% 'Annot.NUMBER11': class PDFDictionary 
+16 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://mlp6.github.io/Intro-Medical-Instrumentation/) >>
@@ -210,18 +226,18 @@ endobj
  /Type /Annot >>
 endobj
 % 'Page2': class PDFPage 
-16 0 obj
+17 0 obj
 % Page dictionary
-<< /Annots [ 12 0 R
- 13 0 R
+<< /Annots [ 13 0 R
  14 0 R
- 15 0 R ]
- /Contents 27 0 R
+ 15 0 R
+ 16 0 R ]
+ /Contents 28 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 25 0 R
+ /Parent 26 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -232,8 +248,8 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'Annot.NUMBER11': class PDFDictionary 
-17 0 obj
+% 'Annot.NUMBER12': class PDFDictionary 
+18 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.solidworks.com) >>
@@ -247,8 +263,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER12': class PDFDictionary 
-18 0 obj
+% 'Annot.NUMBER13': class PDFDictionary 
+19 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://studentshop.pratt.duke.edu/) >>
@@ -263,16 +279,16 @@ endobj
  /Type /Annot >>
 endobj
 % 'Page3': class PDFPage 
-19 0 obj
+20 0 obj
 % Page dictionary
-<< /Annots [ 17 0 R
- 18 0 R ]
- /Contents 28 0 R
+<< /Annots [ 18 0 R
+ 19 0 R ]
+ /Contents 29 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 25 0 R
+ /Parent 26 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -283,8 +299,8 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'Annot.NUMBER13': class PDFDictionary 
-20 0 obj
+% 'Annot.NUMBER14': class PDFDictionary 
+21 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.integrity.duke.edu/standard.html) >>
@@ -298,8 +314,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER14': class PDFDictionary 
-21 0 obj
+% 'Annot.NUMBER15': class PDFDictionary 
+22 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.integrity.duke.edu/standard.html) >>
@@ -314,16 +330,16 @@ endobj
  /Type /Annot >>
 endobj
 % 'Page4': class PDFPage 
-22 0 obj
+23 0 obj
 % Page dictionary
-<< /Annots [ 20 0 R
- 21 0 R ]
- /Contents 29 0 R
+<< /Annots [ 21 0 R
+ 22 0 R ]
+ /Contents 30 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 25 0 R
+ /Parent 26 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -334,39 +350,39 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'R23': class PDFCatalog 
-23 0 obj
+% 'R24': class PDFCatalog 
+24 0 obj
 % Document Root
-<< /Outlines 30 0 R
- /PageLabels 31 0 R
+<< /Outlines 31 0 R
+ /PageLabels 32 0 R
  /PageMode /UseNone
- /Pages 25 0 R
+ /Pages 26 0 R
  /Type /Catalog >>
 endobj
-% 'R24': class PDFInfo 
-24 0 obj
+% 'R25': class PDFInfo 
+25 0 obj
 << /Author ()
- /CreationDate (D:20130827020814+05'00')
+ /CreationDate (D:20130827081324+05'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
  /Subject (\(unspecified\))
  /Title (BME464L: Medical Instrument Design) >>
 endobj
-% 'R25': class PDFPages 
-25 0 obj
+% 'R26': class PDFPages 
+26 0 obj
 % page tree
 << /Count 4
- /Kids [ 10 0 R
- 16 0 R
- 19 0 R
- 22 0 R ]
+ /Kids [ 11 0 R
+ 17 0 R
+ 20 0 R
+ 23 0 R ]
  /Type /Pages >>
 endobj
-% 'R26': class PDFStream 
-26 0 obj
+% 'R27': class PDFStream 
+27 0 obj
 % page stream
-<< /Length 9750 >>
+<< /Length 9785 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -499,8 +515,7 @@ Q
 q
 1 0 0 1 91.03937 3 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 1.620742 Tw (All class activities are being managed in a Google Calendar that is linked to the) Tj T* 0 Tw 1.6208 Tw (class website listed below. XML, iCal and HTML links are available to make this) Tj T* 0 Tw 2.266399 Tw (calendar accessible in your calendar service of choice. Specific lecture and lab) Tj T* 0 Tw 1.188492 Tw (details, along with deliverable due dates will be posted on this calendar, and new) Tj T* 0 Tw (due dates will be announced in lecture and by class email.) Tj T* ET
+BT 1 0 0 1 0 50 Tm 1.620742 Tw 12 TL /F1 10 Tf 0 0 0 rg (All class activities are being managed in a Google Calendar that is linked to the) Tj T* 0 Tw 1.6208 Tw (class website listed below. XML, iCal and HTML links are available to make this) Tj T* 0 Tw 2.266399 Tw (calendar accessible in your calendar service of choice. Specific lecture and lab) Tj T* 0 Tw 1.188492 Tw (details, along with deliverable due dates will be posted on this calendar, and new) Tj T* 0 Tw (due dates will be announced in lecture and by class ) Tj 0 0 .501961 rg (email) Tj 0 0 0 rg (.) Tj T* ET
 Q
 Q
 q
@@ -892,8 +907,8 @@ Q
  
 endstream
 endobj
-% 'R27': class PDFStream 
-27 0 obj
+% 'R28': class PDFStream 
+28 0 obj
 % page stream
 << /Length 7905 >>
 stream
@@ -1211,8 +1226,8 @@ Q
  
 endstream
 endobj
-% 'R28': class PDFStream 
-28 0 obj
+% 'R29': class PDFStream 
+29 0 obj
 % page stream
 << /Length 9691 >>
 stream
@@ -1656,8 +1671,8 @@ Q
  
 endstream
 endobj
-% 'R29': class PDFStream 
-29 0 obj
+% 'R30': class PDFStream 
+30 0 obj
 % page stream
 << /Length 2054 >>
 stream
@@ -1735,49 +1750,49 @@ Q
  
 endstream
 endobj
-% 'R30': class PDFOutlines 
-30 0 obj
+% 'R31': class PDFOutlines 
+31 0 obj
 << /Count 0
  /Type /Outlines >>
 endobj
-% 'R31': class PDFPageLabels 
-31 0 obj
+% 'R32': class PDFPageLabels 
+32 0 obj
 % Document Root
 << /Nums [ 0
- 32 0 R
- 1
  33 0 R
- 2
+ 1
  34 0 R
+ 2
+ 35 0 R
  3
- 35 0 R ] >>
-endobj
-% 'R32': class PDFPageLabel 
-32 0 obj
-% None
-<< /S /D
- /St 1 >>
+ 36 0 R ] >>
 endobj
 % 'R33': class PDFPageLabel 
 33 0 obj
 % None
 << /S /D
- /St 2 >>
+ /St 1 >>
 endobj
 % 'R34': class PDFPageLabel 
 34 0 obj
 % None
 << /S /D
- /St 3 >>
+ /St 2 >>
 endobj
 % 'R35': class PDFPageLabel 
 35 0 obj
 % None
 << /S /D
+ /St 3 >>
+endobj
+% 'R36': class PDFPageLabel 
+36 0 obj
+% None
+<< /S /D
  /St 4 >>
 endobj
 xref
-0 36
+0 37
 0000000000 65535 f
 0000000113 00000 n
 0000000234 00000 n
@@ -1786,42 +1801,43 @@ xref
 0000000832 00000 n
 0000001076 00000 n
 0000001314 00000 n
-0000001580 00000 n
+0000001565 00000 n
 0000001831 00000 n
-0000002056 00000 n
-0000002398 00000 n
-0000002592 00000 n
-0000002860 00000 n
-0000003107 00000 n
-0000003379 00000 n
-0000003636 00000 n
-0000003979 00000 n
-0000004224 00000 n
-0000004463 00000 n
-0000004788 00000 n
-0000005051 00000 n
-0000005299 00000 n
-0000005610 00000 n
-0000005769 00000 n
-0000006048 00000 n
-0000006183 00000 n
-0000016032 00000 n
-0000024036 00000 n
-0000033826 00000 n
-0000035981 00000 n
-0000036064 00000 n
-0000036196 00000 n
-0000036273 00000 n
-0000036350 00000 n
-0000036427 00000 n
+0000002082 00000 n
+0000002308 00000 n
+0000002659 00000 n
+0000002853 00000 n
+0000003121 00000 n
+0000003369 00000 n
+0000003641 00000 n
+0000003898 00000 n
+0000004241 00000 n
+0000004486 00000 n
+0000004725 00000 n
+0000005050 00000 n
+0000005313 00000 n
+0000005561 00000 n
+0000005872 00000 n
+0000006031 00000 n
+0000006310 00000 n
+0000006445 00000 n
+0000016329 00000 n
+0000024333 00000 n
+0000034123 00000 n
+0000036278 00000 n
+0000036361 00000 n
+0000036493 00000 n
+0000036570 00000 n
+0000036647 00000 n
+0000036724 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\001$\234\206\253\320!\015\0211\302c\024\343\220\220) (\001$\234\206\253\320!\015\0211\302c\024\343\220\220)] 
+ [(\213\205\020\216a\263\003e\344D\370\235R\364\270\341) (\213\205\020\216a\263\003e\344D\370\235R\364\270\341)] 
 
- /Info 24 0 R
- /Root 23 0 R
- /Size 36 >>
+ /Info 25 0 R
+ /Root 24 0 R
+ /Size 37 >>
 startxref
-36474
+36771
 %%EOF
