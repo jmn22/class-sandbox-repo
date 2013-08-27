@@ -257,9 +257,9 @@ endobj
  0
  0 ]
  /Rect [ 416.4054
- 255.7736
+ 261.7736
  466.9654
- 267.7736 ]
+ 273.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -272,9 +272,9 @@ endobj
  0
  0 ]
  /Rect [ 505.4627
- 243.7736
+ 249.7736
  524.538
- 255.7736 ]
+ 261.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -287,9 +287,9 @@ endobj
  0
  0 ]
  /Rect [ 153.7323
- 231.7736
+ 237.7736
  260.1024
- 243.7736 ]
+ 249.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -378,7 +378,7 @@ endobj
 % 'R26': class PDFInfo 
 26 0 obj
 << /Author ()
- /CreationDate (D:20130827082511+05'00')
+ /CreationDate (D:20130827100414+05'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
@@ -398,7 +398,7 @@ endobj
 % 'R28': class PDFStream 
 28 0 obj
 % page stream
-<< /Length 9785 >>
+<< /Length 9819 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -692,7 +692,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Write and debug code for a microcontroller) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Write and debug code for a microcontroller \(Arduino or Beaglebone\)) Tj T* ET
 Q
 Q
 q
@@ -740,7 +740,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Manage software with a version control system) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Manage software with a version control system \(git\)) Tj T* ET
 Q
 Q
 q
@@ -1245,35 +1245,35 @@ endobj
 % 'R30': class PDFStream 
 30 0 obj
 % page stream
-<< /Length 9892 >>
+<< /Length 9853 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 318.0236 cm
+1 0 0 1 62.69291 300.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 399 cm
+1 0 0 1 6 417 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 38 Tm /F2 10 Tf 12 TL 20.25937 0 Td (Distributed) Tj T* 16.1 0 Td (Version) Tj T* 1.13 0 Td (Control) Tj T* -31.67 0 Td (Software \(git\):) Tj T* -5.81937 0 Td ET
 Q
 Q
 q
-1 0 0 1 91.03937 351 cm
+1 0 0 1 91.03937 369 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 86 Tm /F1 10 Tf 12 TL 2.955599 Tw (Software management is a ubiquitous issue in any microcontroller engineering) Tj T* 0 Tw 2.954488 Tw (project, and this task becomes increasingly difficult during group development.) Tj T* 0 Tw 2.436039 Tw (Version control software has many benefits and uses in software development,) Tj T* 0 Tw 1.714039 Tw (including preservation of versions during the development process, the ability for) Tj T* 0 Tw .1308 Tw (multiple contributors and reviewers on a project, the ability to tag "releases" of code,) Tj T* 0 Tw 1.316953 Tw (and the ability to branch code into different functional branches. We will be using) Tj T* 0 Tw 1.568366 Tw (GitHub to centrally host our git repositories, with one repository existing for each) Tj T* 0 Tw (project. Some guidelines for using your git repositories:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 91.03937 345 cm
+1 0 0 1 91.03937 363 cm
 Q
 q
-1 0 0 1 91.03937 345 cm
+1 0 0 1 91.03937 363 cm
 Q
 q
-1 0 0 1 91.03937 321 cm
+1 0 0 1 91.03937 339 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1293,10 +1293,10 @@ q
 Q
 Q
 q
-1 0 0 1 91.03937 315 cm
+1 0 0 1 91.03937 333 cm
 Q
 q
-1 0 0 1 91.03937 279 cm
+1 0 0 1 91.03937 297 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1317,10 +1317,10 @@ q
 Q
 Q
 q
-1 0 0 1 91.03937 273 cm
+1 0 0 1 91.03937 291 cm
 Q
 q
-1 0 0 1 91.03937 225 cm
+1 0 0 1 91.03937 243 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1341,10 +1341,10 @@ q
 Q
 Q
 q
-1 0 0 1 91.03937 219 cm
+1 0 0 1 91.03937 237 cm
 Q
 q
-1 0 0 1 91.03937 195 cm
+1 0 0 1 91.03937 213 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1365,10 +1365,10 @@ q
 Q
 Q
 q
-1 0 0 1 91.03937 189 cm
+1 0 0 1 91.03937 207 cm
 Q
 q
-1 0 0 1 91.03937 117 cm
+1 0 0 1 91.03937 135 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1389,10 +1389,10 @@ q
 Q
 Q
 q
-1 0 0 1 91.03937 111 cm
+1 0 0 1 91.03937 129 cm
 Q
 q
-1 0 0 1 91.03937 99 cm
+1 0 0 1 91.03937 117 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1413,10 +1413,10 @@ q
 Q
 Q
 q
-1 0 0 1 91.03937 93 cm
+1 0 0 1 91.03937 111 cm
 Q
 q
-1 0 0 1 91.03937 57 cm
+1 0 0 1 91.03937 75 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1431,6 +1431,30 @@ q
 q
 0 0 0 rg
 BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 3.305039 Tw (Write software testing routines early in the development process so that) Tj T* 0 Tw .017723 Tw (anyone in your group or an outsider reviewing your code can be convinced that) Tj T* 0 Tw (it is working as intended.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 69 cm
+Q
+q
+1 0 0 1 91.03937 57 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Comment, comment, comment.) Tj T* ET
 Q
 Q
 q
@@ -1454,7 +1478,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Comment, comment, comment.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Modular, modular, modular.) Tj T* ET
 Q
 Q
 q
@@ -1478,30 +1502,6 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Modular, modular, modular.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 91.03937 15 cm
-Q
-q
-1 0 0 1 91.03937 3 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Make commits small and logical; do them often!) Tj T* ET
 Q
 Q
@@ -1509,23 +1509,20 @@ q
 Q
 Q
 q
+1 0 0 1 91.03937 21 cm
+Q
+q
 1 0 0 1 91.03937 3 cm
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 300.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (We will review working with git repositories in lecture and lab.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 294.0236 cm
+Q
 Q
 q
-1 0 0 1 62.69291 267.0236 cm
+1 0 0 1 62.69291 273.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1546,7 +1543,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 216.0236 cm
+1 0 0 1 62.69291 222.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1566,7 +1563,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 201.0236 cm
+1 0 0 1 62.69291 207.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1587,10 +1584,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 195.0236 cm
+1 0 0 1 62.69291 201.0236 cm
 Q
 q
-1 0 0 1 62.69291 87.02362 cm
+1 0 0 1 62.69291 93.02362 cm
 1 1 1 rg
 n 0 108 469.8898 -18 re f*
 .878431 .878431 .878431 rg
@@ -1701,10 +1698,10 @@ n 469.8898 0 m 469.8898 108 l S
 Q
 Q
 q
-1 0 0 1 62.69291 87.02362 cm
+1 0 0 1 62.69291 93.02362 cm
 Q
 q
-1 0 0 1 62.69291 81.02362 cm
+1 0 0 1 62.69291 87.02362 cm
 Q
  
 endstream
@@ -1823,23 +1820,23 @@ xref
 0000006293 00000 n
 0000006572 00000 n
 0000006707 00000 n
-0000016591 00000 n
-0000024595 00000 n
-0000034586 00000 n
-0000036192 00000 n
-0000036275 00000 n
-0000036407 00000 n
-0000036484 00000 n
-0000036561 00000 n
-0000036638 00000 n
+0000016625 00000 n
+0000024629 00000 n
+0000034581 00000 n
+0000036187 00000 n
+0000036270 00000 n
+0000036402 00000 n
+0000036479 00000 n
+0000036556 00000 n
+0000036633 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\317{SN\222\331W\317}\274\233u\337\273\241\360) (\317{SN\222\331W\317}\274\233u\337\273\241\360)] 
+ [(\264\235m\2123\212P\247\356G\304\034\314e\265\265) (\264\235m\2123\212P\247\356G\304\034\314e\265\265)] 
 
  /Info 26 0 R
  /Root 25 0 R
  /Size 38 >>
 startxref
-36685
+36680
 %%EOF

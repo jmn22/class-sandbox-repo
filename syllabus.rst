@@ -24,9 +24,9 @@ Class Syllabus (Fall 2013, Palmeri)
  * Draw a schematic and block diagram of a proposed project 
  * Present a project proposal to a group 
  * Find electronic parts using specifications
- * Write and debug code for a microcontroller 
+ * Write and debug code for a microcontroller (Arduino or Beaglebone)
  * Design software to control temporal processes 
- * Manage software with a version control system
+ * Manage software with a version control system (git)
  * Build an electronic medical instrument
  * Calibrate an instrument
  * Create a test environment for an instrument 
@@ -68,7 +68,7 @@ Class Syllabus (Fall 2013, Palmeri)
  * Modular, modular, modular.
  * Make commits small and logical; do them often!
 
-We will review working with git repositories in lecture and lab.
+ We will review working with git repositories in lecture and lab.
 
 :Project Details: Project details, including budgets, part ordering procedures, etc. will be detailed in lecture with a separate handout.
 

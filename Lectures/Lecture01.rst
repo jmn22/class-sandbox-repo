@@ -1,6 +1,9 @@
 Lecture 01: Class Introduction and Overview
 ===========================================
 
+BME464L (Fall 2013, Palmeri)
+----------------------------
+
 * Introductions
 
 * Knee injury update: http://sites.duke.edu/patellarpieces
