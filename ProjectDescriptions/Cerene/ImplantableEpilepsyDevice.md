@@ -5,7 +5,7 @@ Implantable Epilepsy Device
 ---------------------------
 
 ### Clinical Problem ###
-[Cerene Biomedics](http://cerenebiomedics.com/), a startup company who won
+[Cerene Biomedics](http://cerenebiomedics.com/), a startup company that won
 the Duke Startup Challenge a few years ago, proposed an implantable device in
 the brain that can reduce / prevent focal epileptic siezures by locally cooling
 the brain tissue. [1]  The company has since disbanded, but there is still
