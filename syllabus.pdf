@@ -5,7 +5,7 @@
 % The standard fonts dictionary
 << /F1 2 0 R
  /F2 3 0 R
- /F3 10 0 R >>
+ /F3 11 0 R >>
 endobj
 % 'F1': class PDFType1Font 
 2 0 obj
@@ -89,31 +89,47 @@ endobj
 8 0 obj
 << /A << /S /URI
  /Type /Action
+ /URI (mailto:bme464l-01l-f2013@duke.edu) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 244.8923
+ 467.7736
+ 268.7823
+ 479.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER6': class PDFDictionary 
+9 0 obj
+<< /A << /S /URI
+ /Type /Action
  /URI (http://sakai.duke.edu) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 248.7823
+ /Rect [ 274.3423
  467.7736
- 276.5723
+ 302.1323
  479.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Page1': class PDFPage 
-9 0 obj
+10 0 obj
 % Page dictionary
 << /Annots [ 4 0 R
  5 0 R
  6 0 R
  7 0 R
- 8 0 R ]
- /Contents 25 0 R
+ 8 0 R
+ 9 0 R ]
+ /Contents 26 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 24 0 R
+ /Parent 25 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -125,7 +141,7 @@ endobj
  /Type /Page >>
 endobj
 % 'F3': class PDFType1Font 
-10 0 obj
+11 0 obj
 % Font Helvetica-Oblique
 << /BaseFont /Helvetica-Oblique
  /Encoding /WinAnsiEncoding
@@ -133,8 +149,8 @@ endobj
  /Subtype /Type1
  /Type /Font >>
 endobj
-% 'Annot.NUMBER6': class PDFDictionary 
-11 0 obj
+% 'Annot.NUMBER7': class PDFDictionary 
+12 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.pratt.duke.edu/undergrad/policies/3531) >>
@@ -148,8 +164,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER7': class PDFDictionary 
-12 0 obj
+% 'Annot.NUMBER8': class PDFDictionary 
+13 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://exploringarduino.com/) >>
@@ -163,8 +179,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER8': class PDFDictionary 
-13 0 obj
+% 'Annot.NUMBER9': class PDFDictionary 
+14 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://mlp6.github.io/Intro-Medical-Instrumentation/) >>
@@ -178,8 +194,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER9': class PDFDictionary 
-14 0 obj
+% 'Annot.NUMBER10': class PDFDictionary 
+15 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://mlp6.github.io/Intro-Medical-Instrumentation/) >>
@@ -194,18 +210,18 @@ endobj
  /Type /Annot >>
 endobj
 % 'Page2': class PDFPage 
-15 0 obj
+16 0 obj
 % Page dictionary
-<< /Annots [ 11 0 R
- 12 0 R
+<< /Annots [ 12 0 R
  13 0 R
- 14 0 R ]
- /Contents 26 0 R
+ 14 0 R
+ 15 0 R ]
+ /Contents 27 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 24 0 R
+ /Parent 25 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -216,8 +232,8 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'Annot.NUMBER10': class PDFDictionary 
-16 0 obj
+% 'Annot.NUMBER11': class PDFDictionary 
+17 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.solidworks.com) >>
@@ -231,8 +247,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER11': class PDFDictionary 
-17 0 obj
+% 'Annot.NUMBER12': class PDFDictionary 
+18 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://studentshop.pratt.duke.edu/) >>
@@ -247,16 +263,16 @@ endobj
  /Type /Annot >>
 endobj
 % 'Page3': class PDFPage 
-18 0 obj
+19 0 obj
 % Page dictionary
-<< /Annots [ 16 0 R
- 17 0 R ]
- /Contents 27 0 R
+<< /Annots [ 17 0 R
+ 18 0 R ]
+ /Contents 28 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 24 0 R
+ /Parent 25 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -267,8 +283,8 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'Annot.NUMBER12': class PDFDictionary 
-19 0 obj
+% 'Annot.NUMBER13': class PDFDictionary 
+20 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.integrity.duke.edu/standard.html) >>
@@ -282,8 +298,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER13': class PDFDictionary 
-20 0 obj
+% 'Annot.NUMBER14': class PDFDictionary 
+21 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.integrity.duke.edu/standard.html) >>
@@ -298,16 +314,16 @@ endobj
  /Type /Annot >>
 endobj
 % 'Page4': class PDFPage 
-21 0 obj
+22 0 obj
 % Page dictionary
-<< /Annots [ 19 0 R
- 20 0 R ]
- /Contents 28 0 R
+<< /Annots [ 20 0 R
+ 21 0 R ]
+ /Contents 29 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 24 0 R
+ /Parent 25 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -318,39 +334,39 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'R22': class PDFCatalog 
-22 0 obj
+% 'R23': class PDFCatalog 
+23 0 obj
 % Document Root
-<< /Outlines 29 0 R
- /PageLabels 30 0 R
+<< /Outlines 30 0 R
+ /PageLabels 31 0 R
  /PageMode /UseNone
- /Pages 24 0 R
+ /Pages 25 0 R
  /Type /Catalog >>
 endobj
-% 'R23': class PDFInfo 
-23 0 obj
+% 'R24': class PDFInfo 
+24 0 obj
 << /Author ()
- /CreationDate (D:20130827012203+05'00')
+ /CreationDate (D:20130827020814+05'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
  /Subject (\(unspecified\))
  /Title (BME464L: Medical Instrument Design) >>
 endobj
-% 'R24': class PDFPages 
-24 0 obj
+% 'R25': class PDFPages 
+25 0 obj
 % page tree
 << /Count 4
- /Kids [ 9 0 R
- 15 0 R
- 18 0 R
- 21 0 R ]
+ /Kids [ 10 0 R
+ 16 0 R
+ 19 0 R
+ 22 0 R ]
  /Type /Pages >>
 endobj
-% 'R25': class PDFStream 
-25 0 obj
+% 'R26': class PDFStream 
+26 0 obj
 % page stream
-<< /Length 9708 >>
+<< /Length 9750 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -504,7 +520,7 @@ Q
 q
 1 0 0 1 91.03937 3 cm
 q
-BT 1 0 0 1 0 74 Tm 5.640066 Tw 12 TL /F1 10 Tf 0 0 .501961 rg (http://mlp6.github.io/Medical-Instrument-Design/ ) Tj 0 0 0 rg (This website is actually a git) Tj T* 0 Tw 1.750866 Tw (repository hosted and rendered by GitHub! Please be sure to check the website) Tj T* 0 Tw .211039 Tw (often for announcements, deliverable deadlines, project resource, and useful tips as) Tj T* 0 Tw 1.434039 Tw (your projects progress throughout the semester. Content changes on the website) Tj T* 0 Tw .0736 Tw (will be tracked through the commit history to the git repository used to manage class) Tj T* 0 Tw 1.105033 Tw (resources by Dr. Palmeri. Significant changes and additions to the website will be) Tj T* 0 Tw (announced by email. ) Tj 0 0 .501961 rg (Sakai ) Tj 0 0 0 rg (will also be used to post grades.) Tj T* ET
+BT 1 0 0 1 0 74 Tm 5.640066 Tw 12 TL /F1 10 Tf 0 0 .501961 rg (http://mlp6.github.io/Medical-Instrument-Design/ ) Tj 0 0 0 rg (This website is actually a git) Tj T* 0 Tw 1.750866 Tw (repository hosted and rendered by GitHub! Please be sure to check the website) Tj T* 0 Tw .211039 Tw (often for announcements, deliverable deadlines, project resource, and useful tips as) Tj T* 0 Tw 1.434039 Tw (your projects progress throughout the semester. Content changes on the website) Tj T* 0 Tw .0736 Tw (will be tracked through the commit history to the git repository used to manage class) Tj T* 0 Tw 1.105033 Tw (resources by Dr. Palmeri. Significant changes and additions to the website will be) Tj T* 0 Tw (announced by class ) Tj 0 0 .501961 rg (email) Tj 0 0 0 rg (. ) Tj 0 0 .501961 rg (Sakai ) Tj 0 0 0 rg (will also be used to post grades.) Tj T* ET
 Q
 Q
 q
@@ -876,8 +892,8 @@ Q
  
 endstream
 endobj
-% 'R26': class PDFStream 
-26 0 obj
+% 'R27': class PDFStream 
+27 0 obj
 % page stream
 << /Length 7905 >>
 stream
@@ -1195,8 +1211,8 @@ Q
  
 endstream
 endobj
-% 'R27': class PDFStream 
-27 0 obj
+% 'R28': class PDFStream 
+28 0 obj
 % page stream
 << /Length 9691 >>
 stream
@@ -1640,8 +1656,8 @@ Q
  
 endstream
 endobj
-% 'R28': class PDFStream 
-28 0 obj
+% 'R29': class PDFStream 
+29 0 obj
 % page stream
 << /Length 2054 >>
 stream
@@ -1719,49 +1735,49 @@ Q
  
 endstream
 endobj
-% 'R29': class PDFOutlines 
-29 0 obj
+% 'R30': class PDFOutlines 
+30 0 obj
 << /Count 0
  /Type /Outlines >>
 endobj
-% 'R30': class PDFPageLabels 
-30 0 obj
+% 'R31': class PDFPageLabels 
+31 0 obj
 % Document Root
 << /Nums [ 0
- 31 0 R
- 1
  32 0 R
- 2
+ 1
  33 0 R
+ 2
+ 34 0 R
  3
- 34 0 R ] >>
-endobj
-% 'R31': class PDFPageLabel 
-31 0 obj
-% None
-<< /S /D
- /St 1 >>
+ 35 0 R ] >>
 endobj
 % 'R32': class PDFPageLabel 
 32 0 obj
 % None
 << /S /D
- /St 2 >>
+ /St 1 >>
 endobj
 % 'R33': class PDFPageLabel 
 33 0 obj
 % None
 << /S /D
- /St 3 >>
+ /St 2 >>
 endobj
 % 'R34': class PDFPageLabel 
 34 0 obj
 % None
 << /S /D
+ /St 3 >>
+endobj
+% 'R35': class PDFPageLabel 
+35 0 obj
+% None
+<< /S /D
  /St 4 >>
 endobj
 xref
-0 35
+0 36
 0000000000 65535 f
 0000000113 00000 n
 0000000234 00000 n
@@ -1771,40 +1787,41 @@ xref
 0000001076 00000 n
 0000001314 00000 n
 0000001580 00000 n
-0000001805 00000 n
-0000002138 00000 n
-0000002332 00000 n
-0000002600 00000 n
-0000002847 00000 n
-0000003118 00000 n
-0000003375 00000 n
-0000003718 00000 n
-0000003963 00000 n
-0000004202 00000 n
-0000004527 00000 n
-0000004790 00000 n
-0000005038 00000 n
-0000005349 00000 n
-0000005508 00000 n
-0000005787 00000 n
-0000005921 00000 n
-0000015728 00000 n
-0000023732 00000 n
-0000033522 00000 n
-0000035677 00000 n
-0000035760 00000 n
-0000035892 00000 n
-0000035969 00000 n
-0000036046 00000 n
-0000036123 00000 n
+0000001831 00000 n
+0000002056 00000 n
+0000002398 00000 n
+0000002592 00000 n
+0000002860 00000 n
+0000003107 00000 n
+0000003379 00000 n
+0000003636 00000 n
+0000003979 00000 n
+0000004224 00000 n
+0000004463 00000 n
+0000004788 00000 n
+0000005051 00000 n
+0000005299 00000 n
+0000005610 00000 n
+0000005769 00000 n
+0000006048 00000 n
+0000006183 00000 n
+0000016032 00000 n
+0000024036 00000 n
+0000033826 00000 n
+0000035981 00000 n
+0000036064 00000 n
+0000036196 00000 n
+0000036273 00000 n
+0000036350 00000 n
+0000036427 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(C\366\246-\014b\241\310\2310\233\370\015\316m\230) (C\366\246-\014b\241\310\2310\233\370\015\316m\230)] 
+ [(\001$\234\206\253\320!\015\0211\302c\024\343\220\220) (\001$\234\206\253\320!\015\0211\302c\024\343\220\220)] 
 
- /Info 23 0 R
- /Root 22 0 R
- /Size 35 >>
+ /Info 24 0 R
+ /Root 23 0 R
+ /Size 36 >>
 startxref
-36170
+36474
 %%EOF
