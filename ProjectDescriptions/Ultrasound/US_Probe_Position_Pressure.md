@@ -25,8 +25,9 @@ maintain a flush profile to the transducer to be used for in vivo patient
 imaging.  Additionally, pressure and 3D position data can be sent to an Android
 Nexus 7 for data display and recording.
 
-### Clinical / Research Contact ###
+### Clinical / Research Contacts ###
 
-Dr. Mark Palmeri, M.D., Ph.D.
+ * Dr. Mark Palmeri, M.D., Ph.D.
 ([mark.palmeri@duke.edu](mailto:mark.palmeri@duke.edu))
 
+ * Dr. Tom Polascik, M.D. (Division of Urology, Duke Surgery)
