@@ -140,12 +140,12 @@ endobj
  8 0 R
  9 0 R
  10 0 R ]
- /Contents 27 0 R
+ /Contents 28 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 26 0 R
+ /Parent 27 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -232,12 +232,12 @@ endobj
  14 0 R
  15 0 R
  16 0 R ]
- /Contents 28 0 R
+ /Contents 29 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 26 0 R
+ /Parent 27 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -271,24 +271,40 @@ endobj
  /Border [ 0
  0
  0 ]
- /Rect [ 355.9792
+ /Rect [ 505.4627
  243.7736
- 488.1018
+ 524.538
  255.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Page3': class PDFPage 
+% 'Annot.NUMBER14': class PDFDictionary 
 20 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://studentshop.pratt.duke.edu/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 153.7323
+ 231.7736
+ 260.1024
+ 243.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page3': class PDFPage 
+21 0 obj
 % Page dictionary
 << /Annots [ 18 0 R
- 19 0 R ]
- /Contents 29 0 R
+ 19 0 R
+ 20 0 R ]
+ /Contents 30 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 26 0 R
+ /Parent 27 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -298,21 +314,6 @@ endobj
  /Rotate 0
  /Trans <<  >>
  /Type /Page >>
-endobj
-% 'Annot.NUMBER14': class PDFDictionary 
-21 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.integrity.duke.edu/standard.html) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 446.6218
- 663.7736
- 523.3018
- 675.7736 ]
- /Subtype /Link
- /Type /Annot >>
 endobj
 % 'Annot.NUMBER15': class PDFDictionary 
 22 0 obj
@@ -322,24 +323,39 @@ endobj
  /Border [ 0
  0
  0 ]
+ /Rect [ 446.6218
+ 687.7736
+ 523.3018
+ 699.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER16': class PDFDictionary 
+23 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.integrity.duke.edu/standard.html) >>
+ /Border [ 0
+ 0
+ 0 ]
  /Rect [ 153.7323
- 651.7736
+ 675.7736
  194.3123
- 663.7736 ]
+ 687.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Page4': class PDFPage 
-23 0 obj
+24 0 obj
 % Page dictionary
-<< /Annots [ 21 0 R
- 22 0 R ]
- /Contents 30 0 R
+<< /Annots [ 22 0 R
+ 23 0 R ]
+ /Contents 31 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 26 0 R
+ /Parent 27 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -350,37 +366,37 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'R24': class PDFCatalog 
-24 0 obj
+% 'R25': class PDFCatalog 
+25 0 obj
 % Document Root
-<< /Outlines 31 0 R
- /PageLabels 32 0 R
+<< /Outlines 32 0 R
+ /PageLabels 33 0 R
  /PageMode /UseNone
- /Pages 26 0 R
+ /Pages 27 0 R
  /Type /Catalog >>
 endobj
-% 'R25': class PDFInfo 
-25 0 obj
+% 'R26': class PDFInfo 
+26 0 obj
 << /Author ()
- /CreationDate (D:20130827081324+05'00')
+ /CreationDate (D:20130827082511+05'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
  /Subject (\(unspecified\))
  /Title (BME464L: Medical Instrument Design) >>
 endobj
-% 'R26': class PDFPages 
-26 0 obj
+% 'R27': class PDFPages 
+27 0 obj
 % page tree
 << /Count 4
  /Kids [ 11 0 R
  17 0 R
- 20 0 R
- 23 0 R ]
+ 21 0 R
+ 24 0 R ]
  /Type /Pages >>
 endobj
-% 'R27': class PDFStream 
-27 0 obj
+% 'R28': class PDFStream 
+28 0 obj
 % page stream
 << /Length 9785 >>
 stream
@@ -907,8 +923,8 @@ Q
  
 endstream
 endobj
-% 'R28': class PDFStream 
-28 0 obj
+% 'R29': class PDFStream 
+29 0 obj
 % page stream
 << /Length 7905 >>
 stream
@@ -1060,7 +1076,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.525039 Tw (Choice of electronic components should be supported by an analysis \(when) Tj T* 0 Tw .33671 Tw (appropriate\) that includes considerations such as power, bandwidth, SNR, etc.) Tj T* 0 Tw (that could impact performance in your device.) Tj T* ET
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.525039 Tw (Choice of electronic components should be supported by an analysis \(when) Tj T* 0 Tw .33671 Tw (appropriate\) that includes considerations such as power, bandwidth, SNR, etc.) Tj T* 0 Tw (that could impact performance of your device.) Tj T* ET
 Q
 Q
 q
@@ -1226,10 +1242,10 @@ Q
  
 endstream
 endobj
-% 'R29': class PDFStream 
-29 0 obj
+% 'R30': class PDFStream 
+30 0 obj
 % page stream
-<< /Length 9691 >>
+<< /Length 9892 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1247,7 +1263,7 @@ q
 1 0 0 1 91.03937 351 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 86 Tm /F1 10 Tf 12 TL 2.955599 Tw (Software management is a ubiquitous issue in any microcontroller engineering) Tj T* 0 Tw 2.954488 Tw (project, and this task becomes increasingly difficult during group development.) Tj T* 0 Tw 2.436039 Tw (Version control software has many benefits and uses in software development,) Tj T* 0 Tw 2.214039 Tw (including preservation of version during the development process, the ability for) Tj T* 0 Tw .1308 Tw (multiple contributors and reviewers on a project, the ability to tag "releases" of code,) Tj T* 0 Tw 1.316953 Tw (and the ability to branch code into different functional branches. We will be using) Tj T* 0 Tw 1.568366 Tw (GitHub to centrally host our git repositories, with one repository existing for each) Tj T* 0 Tw (project. Some guidelines for using your git repositories:) Tj T* ET
+BT 1 0 0 1 0 86 Tm /F1 10 Tf 12 TL 2.955599 Tw (Software management is a ubiquitous issue in any microcontroller engineering) Tj T* 0 Tw 2.954488 Tw (project, and this task becomes increasingly difficult during group development.) Tj T* 0 Tw 2.436039 Tw (Version control software has many benefits and uses in software development,) Tj T* 0 Tw 1.714039 Tw (including preservation of versions during the development process, the ability for) Tj T* 0 Tw .1308 Tw (multiple contributors and reviewers on a project, the ability to tag "releases" of code,) Tj T* 0 Tw 1.316953 Tw (and the ability to branch code into different functional branches. We will be using) Tj T* 0 Tw 1.568366 Tw (GitHub to centrally host our git repositories, with one repository existing for each) Tj T* 0 Tw (project. Some guidelines for using your git repositories:) Tj T* ET
 Q
 Q
 q
@@ -1530,11 +1546,11 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 192.0236 cm
+1 0 0 1 62.69291 216.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 27 cm
+1 0 0 1 6 3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 38 Tm /F2 10 Tf 12 TL 18.02937 0 Td (SolidWorks) Tj T* 11.67 0 Td (and Pratt) Tj T* 6.12 0 Td (Student) Tj T* -33.9 0 Td (Machine Shop:) Tj T* -1.91937 0 Td ET
@@ -1543,14 +1559,14 @@ Q
 q
 1 0 0 1 91.03937 3 cm
 q
-BT 1 0 0 1 0 62 Tm .147309 Tw 12 TL /F1 10 Tf 0 0 0 rg (Everyone will be receiving training in the 3D CAD software ) Tj 0 0 .501961 rg (SolidWorks) Tj 0 0 0 rg (. Additionally,) Tj T* 0 Tw 2.350866 Tw (everyone needs to be certified to use the ) Tj 0 0 .501961 rg (Pratt Student Machine Shop) Tj 0 0 0 rg (. Please) Tj T* 0 Tw .419261 Tw (complete the online machine shop training and schedule a time for the safety exam) Tj T* 0 Tw .969199 Tw (with Steve Earp sometime in September!! ) Tj /F2 10 Tf (Note that you cannot just have some) Tj T* 0 Tw 3.055033 Tw (of your group members certified to use the shop; all members must be) Tj T* 0 Tw (certified to pass the class.) Tj T* ET
+BT 1 0 0 1 0 38 Tm .147309 Tw 12 TL /F1 10 Tf 0 0 0 rg (Everyone will be receiving training in the 3D CAD software ) Tj 0 0 .501961 rg (SolidWorks) Tj 0 0 0 rg (. Additionally,) Tj T* 0 Tw 2.044646 Tw (everyone \(not just some group members\) needs to be certified to use the ) Tj 0 0 .501961 rg (Pratt) Tj T* 0 Tw 2.600039 Tw (Student Machine Shop) Tj 0 0 0 rg (. Please complete the online machine shop training and) Tj T* 0 Tw (schedule a time for the safety exam with Steve Earp sometime in September!!) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 177.0236 cm
+1 0 0 1 62.69291 201.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1571,65 +1587,80 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 171.0236 cm
+1 0 0 1 62.69291 195.0236 cm
 Q
 q
-1 0 0 1 62.69291 81.02362 cm
+1 0 0 1 62.69291 87.02362 cm
 1 1 1 rg
+n 0 108 469.8898 -18 re f*
+.878431 .878431 .878431 rg
 n 0 90 469.8898 -18 re f*
-.878431 .878431 .878431 rg
+1 1 1 rg
 n 0 72 469.8898 -18 re f*
-1 1 1 rg
-n 0 54 469.8898 -18 re f*
 .878431 .878431 .878431 rg
-n 0 36 469.8898 -18 re f*
+n 0 54 469.8898 -18 re f*
 1 1 1 rg
+n 0 36 469.8898 -18 re f*
+.878431 .878431 .878431 rg
 n 0 18 469.8898 -18 re f*
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 75 cm
+1 0 0 1 6 93 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Attendance & Participation) Tj T* ET
 Q
 Q
 q
-1 0 0 1 424.8148 75 cm
+1 0 0 1 424.8148 93 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (10%) Tj T* ET
 Q
 Q
 q
-1 0 0 1 6 57 cm
+1 0 0 1 6 75 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (ELN & GitHub Repository \(weekly review\)) Tj T* ET
 Q
 Q
 q
-1 0 0 1 424.8148 57 cm
+1 0 0 1 424.8148 75 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (30%) Tj T* ET
 Q
 Q
 q
-1 0 0 1 6 39 cm
+1 0 0 1 6 57 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Progress Reports & Presentations) Tj T* ET
 Q
 Q
 q
-1 0 0 1 424.8148 39 cm
+1 0 0 1 424.8148 57 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (20%) Tj T* ET
 Q
 Q
 q
-1 0 0 1 6 21 cm
+1 0 0 1 6 39 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Final Device \(Function & Packaging\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 424.8148 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (15%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Final Report & Documentation) Tj T* ET
 Q
 Q
 q
@@ -1639,50 +1670,6 @@ q
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (15%) Tj T* ET
 Q
 Q
-q
-1 0 0 1 6 3 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Final Report & Documentation) Tj T* ET
-Q
-Q
-q
-1 0 0 1 424.8148 3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (15%) Tj T* ET
-Q
-Q
-q
-1 J
-1 j
-0 0 0 RG
-.25 w
-n 0 0 m 469.8898 0 l S
-n 0 72 m 469.8898 72 l S
-n 0 54 m 469.8898 54 l S
-n 0 36 m 469.8898 36 l S
-n 0 18 m 469.8898 18 l S
-n 418.8148 0 m 418.8148 90 l S
-n 0 90 m 469.8898 90 l S
-n 0 0 m 0 90 l S
-n 469.8898 0 m 469.8898 90 l S
-Q
-Q
- 
-endstream
-endobj
-% 'R30': class PDFStream 
-30 0 obj
-% page stream
-<< /Length 2054 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 62.69291 747.0236 cm
-1 1 1 rg
-n 0 18 469.8898 -18 re f*
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 3 cm
 q
@@ -1701,21 +1688,35 @@ q
 1 j
 0 0 0 RG
 .25 w
+n 0 90 m 469.8898 90 l S
+n 0 72 m 469.8898 72 l S
+n 0 54 m 469.8898 54 l S
+n 0 36 m 469.8898 36 l S
 n 0 18 m 469.8898 18 l S
-n 418.8148 0 m 418.8148 18 l S
-n 0 0 m 0 18 l S
-n 469.8898 0 m 469.8898 18 l S
+n 418.8148 0 m 418.8148 108 l S
+n 0 108 m 469.8898 108 l S
 n 0 0 m 469.8898 0 l S
+n 0 0 m 0 108 l S
+n 469.8898 0 m 469.8898 108 l S
 Q
 Q
 q
-1 0 0 1 62.69291 747.0236 cm
+1 0 0 1 62.69291 87.02362 cm
 Q
 q
-1 0 0 1 62.69291 741.0236 cm
+1 0 0 1 62.69291 81.02362 cm
 Q
+ 
+endstream
+endobj
+% 'R31': class PDFStream 
+31 0 obj
+% page stream
+<< /Length 1505 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 606.0236 cm
+1 0 0 1 62.69291 630.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1750,49 +1751,49 @@ Q
  
 endstream
 endobj
-% 'R31': class PDFOutlines 
-31 0 obj
+% 'R32': class PDFOutlines 
+32 0 obj
 << /Count 0
  /Type /Outlines >>
 endobj
-% 'R32': class PDFPageLabels 
-32 0 obj
+% 'R33': class PDFPageLabels 
+33 0 obj
 % Document Root
 << /Nums [ 0
- 33 0 R
- 1
  34 0 R
- 2
+ 1
  35 0 R
+ 2
+ 36 0 R
  3
- 36 0 R ] >>
-endobj
-% 'R33': class PDFPageLabel 
-33 0 obj
-% None
-<< /S /D
- /St 1 >>
+ 37 0 R ] >>
 endobj
 % 'R34': class PDFPageLabel 
 34 0 obj
 % None
 << /S /D
- /St 2 >>
+ /St 1 >>
 endobj
 % 'R35': class PDFPageLabel 
 35 0 obj
 % None
 << /S /D
- /St 3 >>
+ /St 2 >>
 endobj
 % 'R36': class PDFPageLabel 
 36 0 obj
 % None
 << /S /D
+ /St 3 >>
+endobj
+% 'R37': class PDFPageLabel 
+37 0 obj
+% None
+<< /S /D
  /St 4 >>
 endobj
 xref
-0 37
+0 38
 0000000000 65535 f
 0000000113 00000 n
 0000000234 00000 n
@@ -1813,31 +1814,32 @@ xref
 0000003898 00000 n
 0000004241 00000 n
 0000004486 00000 n
-0000004725 00000 n
-0000005050 00000 n
-0000005313 00000 n
-0000005561 00000 n
-0000005872 00000 n
-0000006031 00000 n
-0000006310 00000 n
-0000006445 00000 n
-0000016329 00000 n
-0000024333 00000 n
-0000034123 00000 n
-0000036278 00000 n
-0000036361 00000 n
-0000036493 00000 n
-0000036570 00000 n
-0000036647 00000 n
-0000036724 00000 n
+0000004739 00000 n
+0000004978 00000 n
+0000005312 00000 n
+0000005575 00000 n
+0000005823 00000 n
+0000006134 00000 n
+0000006293 00000 n
+0000006572 00000 n
+0000006707 00000 n
+0000016591 00000 n
+0000024595 00000 n
+0000034586 00000 n
+0000036192 00000 n
+0000036275 00000 n
+0000036407 00000 n
+0000036484 00000 n
+0000036561 00000 n
+0000036638 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\213\205\020\216a\263\003e\344D\370\235R\364\270\341) (\213\205\020\216a\263\003e\344D\370\235R\364\270\341)] 
+ [(\317{SN\222\331W\317}\274\233u\337\273\241\360) (\317{SN\222\331W\317}\274\233u\337\273\241\360)] 
 
- /Info 25 0 R
- /Root 24 0 R
- /Size 37 >>
+ /Info 26 0 R
+ /Root 25 0 R
+ /Size 38 >>
 startxref
-36771
+36685
 %%EOF
