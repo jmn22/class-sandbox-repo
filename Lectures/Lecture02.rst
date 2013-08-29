@@ -65,3 +65,5 @@ BME464L (Fall 2013, Palmeri)
   + Dr. Palmeri will provide feedback in the ELN on at least a weekly basis.
 
   + Part ordering will occur through your ELN (order template to be provided).
+
+  + ELNs will be setup this afternoon in lab

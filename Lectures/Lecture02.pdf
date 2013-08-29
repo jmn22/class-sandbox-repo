@@ -84,7 +84,7 @@ endobj
 % 'R8': class PDFInfo 
 8 0 obj
 << /Author ()
- /CreationDate (D:20130829103856+05'00')
+ /CreationDate (D:20130829104558+05'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
@@ -629,16 +629,16 @@ endobj
 % 'R11': class PDFStream 
 11 0 obj
 % page stream
-<< /Length 5137 >>
+<< /Length 5464 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 459.0236 cm
+1 0 0 1 62.69291 441.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 6 293 Tm  T* ET
+BT 1 0 0 1 6 311 Tm  T* ET
 q
-1 0 0 1 23 291 cm
+1 0 0 1 23 309 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 6 -1 Tm  T* ET
@@ -647,6 +647,30 @@ q
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (of your device.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 303 cm
+Q
+q
+1 0 0 1 23 291 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Formal circuit schematics should be drawn and properly annotated for all electronic circuits.) Tj T* ET
 Q
 Q
 q
@@ -670,7 +694,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Formal circuit schematics should be drawn and properly annotated for all electronic circuits.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Component datasheets, user manuals, etc. should be included.) Tj T* ET
 Q
 Q
 q
@@ -680,31 +704,7 @@ q
 1 0 0 1 23 267 cm
 Q
 q
-1 0 0 1 23 255 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Component datasheets, user manuals, etc. should be included.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 23 249 cm
-Q
-q
-1 0 0 1 23 225 cm
+1 0 0 1 23 243 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -725,10 +725,10 @@ q
 Q
 Q
 q
-1 0 0 1 23 219 cm
+1 0 0 1 23 237 cm
 Q
 q
-1 0 0 1 23 183 cm
+1 0 0 1 23 201 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -749,10 +749,10 @@ q
 Q
 Q
 q
-1 0 0 1 23 177 cm
+1 0 0 1 23 195 cm
 Q
 q
-1 0 0 1 23 165 cm
+1 0 0 1 23 183 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -773,10 +773,10 @@ q
 Q
 Q
 q
-1 0 0 1 23 159 cm
+1 0 0 1 23 177 cm
 Q
 q
-1 0 0 1 23 123 cm
+1 0 0 1 23 141 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -797,10 +797,10 @@ q
 Q
 Q
 q
-1 0 0 1 23 117 cm
+1 0 0 1 23 135 cm
 Q
 q
-1 0 0 1 23 93 cm
+1 0 0 1 23 111 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -821,10 +821,10 @@ q
 Q
 Q
 q
-1 0 0 1 23 87 cm
+1 0 0 1 23 105 cm
 Q
 q
-1 0 0 1 23 63 cm
+1 0 0 1 23 81 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -845,10 +845,10 @@ q
 Q
 Q
 q
-1 0 0 1 23 57 cm
+1 0 0 1 23 75 cm
 Q
 q
-1 0 0 1 23 33 cm
+1 0 0 1 23 51 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -863,6 +863,30 @@ q
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.480751 Tw (All pages should be electronically signed when complete, and an entry should indicate what) Tj T* 0 Tw (team members contributed to that effort when a single person is making an entry.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 45 cm
+Q
+q
+1 0 0 1 23 33 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Dr. Palmeri will provide feedback in the ELN on at least a weekly basis.) Tj T* ET
 Q
 Q
 q
@@ -886,7 +910,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Dr. Palmeri will provide feedback in the ELN on at least a weekly basis.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Part ordering will occur through your ELN \(order template to be provided\).) Tj T* ET
 Q
 Q
 q
@@ -910,7 +934,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Part ordering will occur through your ELN \(order template to be provided\).) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (ELNs will be setup this afternoon in lab) Tj T* ET
 Q
 Q
 q
@@ -923,7 +947,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 459.0236 cm
+1 0 0 1 62.69291 441.0236 cm
 Q
  
 endstream
@@ -967,18 +991,18 @@ xref
 0000001738 00000 n
 0000001852 00000 n
 0000011954 00000 n
-0000017192 00000 n
-0000017275 00000 n
-0000017381 00000 n
-0000017458 00000 n
+0000017519 00000 n
+0000017602 00000 n
+0000017708 00000 n
+0000017785 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(,\327\025_\316\306\003X\357\361\351AO\231J\350) (,\327\025_\316\306\003X\357\361\351AO\231J\350)] 
+ [(\\\0015\310\267GT\325-\034\305\210\307Z\355g) (\\\0015\310\267GT\325-\034\305\210\307Z\355g)] 
 
  /Info 8 0 R
  /Root 7 0 R
  /Size 16 >>
 startxref
-17505
+17832
 %%EOF
