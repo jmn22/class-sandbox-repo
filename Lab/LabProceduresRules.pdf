@@ -1,0 +1,516 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class PDFDictionary 
+4 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.safety.duke.edu) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 350.8329
+ 320.7736
+ 470.8929
+ 332.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page1': class PDFPage 
+5 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R ]
+ /Contents 9 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 8 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R6': class PDFCatalog 
+6 0 obj
+% Document Root
+<< /Outlines 10 0 R
+ /PageLabels 11 0 R
+ /PageMode /UseNone
+ /Pages 8 0 R
+ /Type /Catalog >>
+endobj
+% 'R7': class PDFInfo 
+7 0 obj
+<< /Author ()
+ /CreationDate (D:20130829152245+05'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (Lab Procedures & Rules \(Teer P012\)) >>
+endobj
+% 'R8': class PDFPages 
+8 0 obj
+% page tree
+<< /Count 1
+ /Kids [ 5 0 R ]
+ /Type /Pages >>
+endobj
+% 'R9': class PDFStream 
+9 0 obj
+% page stream
+<< /Length 7174 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+BT 1 0 0 1 0 4 Tm 62.66488 0 Td 24 TL /F2 20 Tf 0 0 0 rg (Lab Procedures & Rules \(Teer P012\)) Tj T* -62.66488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL 131.1524 0 Td (BME464L \(Fall 2013, Palmeri\)) Tj T* -131.1524 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 695.0236 cm
+Q
+q
+1 0 0 1 62.69291 695.0236 cm
+Q
+q
+1 0 0 1 62.69291 659.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm .277262 Tw 12 TL /F1 10 Tf 0 0 0 rg (Safety in the lab is out #1 priority. If you ever feel that you are in an environment that is unsafe / you) Tj T* 0 Tw .44832 Tw (don't know how to use a piece of equipment / something just seems off, then please do not hesitate) Tj T* 0 Tw (to ask Dr. Palmeri, Matt Brown or Dongwoon for help.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 653.0236 cm
+Q
+q
+1 0 0 1 62.69291 641.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Call 911 for all emergencies. A phone is near the restrooms.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 635.0236 cm
+Q
+q
+1 0 0 1 62.69291 623.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The fire exit, fire alarm, and fire extinguisher are to the right after you leave the lab.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 617.0236 cm
+Q
+q
+1 0 0 1 62.69291 593.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .705984 Tw (Wear eye protection during any activity that endangers your sight such as cutting wire or soldering.) Tj T* 0 Tw (An eyewash station is in the hall just outside the lab.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 587.0236 cm
+Q
+q
+1 0 0 1 62.69291 575.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (At least two people must be present when working on projects with electrical or mechanical danger.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 569.0236 cm
+Q
+q
+1 0 0 1 62.69291 557.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Do not touch the gas valve near the sink.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 551.0236 cm
+Q
+q
+1 0 0 1 62.69291 527.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.813735 Tw (Do not tell the door lock code to anyone not in the class. "Anyone" includes parents, significant) Tj T* 0 Tw (others, peers in other electronics classes, etc.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 521.0236 cm
+Q
+q
+1 0 0 1 62.69291 509.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Do not prop open the door.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 503.0236 cm
+Q
+q
+1 0 0 1 62.69291 479.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .31436 Tw (All instruments \(scopes, supplies, meters, etc.\) must be locked down to the lab bench or the storage) Tj T* 0 Tw (rack. Do not tell the lock combination to anyone not in the class.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 473.0236 cm
+Q
+q
+1 0 0 1 62.69291 449.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.63061 Tw (You have been assigned a bench. You are responsible for keeping the area in and around your) Tj T* 0 Tw (bench clean, including the floor.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 443.0236 cm
+Q
+q
+1 0 0 1 62.69291 431.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (No food or drink is allowed in the lab.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 425.0236 cm
+Q
+q
+1 0 0 1 62.69291 401.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .324692 Tw (You can use the components in the cabinet and on the counter tops. Do not disturb the organization) Tj T* 0 Tw (of these components. Do not take entire boxes or bins of components to your bench.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 395.0236 cm
+Q
+q
+1 0 0 1 62.69291 371.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.151412 Tw (The test equipment, tools, and test cables are community property. You cannot horde these. Only) Tj T* 0 Tw (take what you need. Other teams have permission to take anything that is unused off your bench.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 365.0236 cm
+Q
+q
+1 0 0 1 62.69291 341.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.047045 Tw (The blue drawers to the left of the component cabinet are community property. Take one or two if) Tj T* 0 Tw (you need them. Do not hide cables, components, test equipment, etc. in your drawers.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 335.0236 cm
+Q
+q
+1 0 0 1 62.69291 323.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (More safety info is available on the chart by the door and at ) Tj 0 0 .501961 rg (http://www.safety.duke.edu) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 323.0236 cm
+Q
+ 
+endstream
+endobj
+% 'R10': class PDFOutlines 
+10 0 obj
+<< /Count 0
+ /Type /Outlines >>
+endobj
+% 'R11': class PDFPageLabels 
+11 0 obj
+% Document Root
+<< /Nums [ 0
+ 12 0 R ] >>
+endobj
+% 'R12': class PDFPageLabel 
+12 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+xref
+0 13
+0000000000 65535 f
+0000000113 00000 n
+0000000221 00000 n
+0000000386 00000 n
+0000000573 00000 n
+0000000803 00000 n
+0000001100 00000 n
+0000001256 00000 n
+0000001535 00000 n
+0000001640 00000 n
+0000008914 00000 n
+0000008997 00000 n
+0000009090 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\311\021c&\314Wi;\317\310PI\243\305\304\346) (\311\021c&\314Wi;\317\310PI\243\305\304\346)] 
+
+ /Info 7 0 R
+ /Root 6 0 R
+ /Size 13 >>
+startxref
+9137
+%%EOF
