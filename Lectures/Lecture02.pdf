@@ -84,12 +84,12 @@ endobj
 % 'R8': class PDFInfo 
 8 0 obj
 << /Author ()
- /CreationDate (D:20130829102728+05'00')
+ /CreationDate (D:20130829103856+05'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
  /Subject (\(unspecified\))
- /Title (Lecture 01: Class Introduction and Overview) >>
+ /Title (Lecture 02: Project Teams & ELN) >>
 endobj
 % 'R9': class PDFPages 
 9 0 obj
@@ -102,47 +102,53 @@ endobj
 % 'R10': class PDFStream 
 10 0 obj
 % page stream
-<< /Length 9863 >>
+<< /Length 10002 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
 1 0 0 1 62.69291 741.0236 cm
 q
+BT 1 0 0 1 0 4 Tm 77.67488 0 Td 24 TL /F2 20 Tf 0 0 0 rg (Lecture 02: Project Teams & ELN) Tj T* -77.67488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
 0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 23.21488 0 Td (Lecture 01: Class Introduction and Overview) Tj T* -23.21488 0 Td ET
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL 131.1524 0 Td (BME464L \(Fall 2013, Palmeri\)) Tj T* -131.1524 0 Td ET
 Q
 Q
 q
-1 0 0 1 62.69291 725.0236 cm
+1 0 0 1 62.69291 695.0236 cm
 Q
 q
-1 0 0 1 62.69291 725.0236 cm
+1 0 0 1 62.69291 695.0236 cm
 Q
 q
-1 0 0 1 62.69291 683.0236 cm
+1 0 0 1 62.69291 635.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 27 cm
+1 0 0 1 6 45 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 27 cm
+1 0 0 1 23 45 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Business Items) Tj T* ET
 Q
 Q
 q
-1 0 0 1 23 21 cm
+1 0 0 1 23 39 cm
 Q
 q
-1 0 0 1 23 21 cm
+1 0 0 1 23 39 cm
 Q
 q
-1 0 0 1 23 -3 cm
+1 0 0 1 23 15 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -163,16 +169,40 @@ q
 Q
 Q
 q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Please bring personal laptops that you plan to use this semester to lab) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
 1 0 0 1 23 -3 cm
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 677.0236 cm
+1 0 0 1 62.69291 629.0236 cm
 Q
 q
-1 0 0 1 62.69291 275.0236 cm
+1 0 0 1 62.69291 227.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -471,34 +501,34 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 269.0236 cm
+1 0 0 1 62.69291 221.0236 cm
 Q
 q
-1 0 0 1 62.69291 77.02362 cm
+1 0 0 1 62.69291 76.86614 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 177 cm
+1 0 0 1 6 129.1575 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 177 cm
+1 0 0 1 23 129.1575 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (ELN / LabArchives Overview) Tj T* ET
 Q
 Q
 q
-1 0 0 1 23 171 cm
+1 0 0 1 23 123.1575 cm
 Q
 q
-1 0 0 1 23 171 cm
+1 0 0 1 23 123.1575 cm
 Q
 q
-1 0 0 1 23 147 cm
+1 0 0 1 23 99.15748 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -519,10 +549,10 @@ q
 Q
 Q
 q
-1 0 0 1 23 141 cm
+1 0 0 1 23 93.15748 cm
 Q
 q
-1 0 0 1 23 117 cm
+1 0 0 1 23 69.15748 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -543,10 +573,10 @@ q
 Q
 Q
 q
-1 0 0 1 23 111 cm
+1 0 0 1 23 63.15748 cm
 Q
 q
-1 0 0 1 23 63 cm
+1 0 0 1 23 15.15748 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -567,34 +597,66 @@ q
 Q
 Q
 q
-1 0 0 1 23 57 cm
+1 0 0 1 23 9.15748 cm
 Q
 q
-1 0 0 1 23 21 cm
+1 0 0 1 23 -21 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 21 cm
+1 0 0 1 6 15.15748 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
+1 0 0 1 23 3.15748 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.09498 Tw (Choice of electronic components should be supported by an analysis \(when appropriate\) that) Tj T* 0 Tw 1.449069 Tw (includes considerations such as power, bandwidth, SNR, etc. that could impact performance) Tj T* 0 Tw ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+% 'R11': class PDFStream 
+11 0 obj
+% page stream
+<< /Length 5137 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 459.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 293 Tm  T* ET
+q
+1 0 0 1 23 291 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 -1 Tm  T* ET
+q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.09498 Tw (Choice of electronic components should be supported by an analysis \(when appropriate\) that) Tj T* 0 Tw .401647 Tw (includes considerations such as power, bandwidth, SNR, etc. that could impact performance of) Tj T* 0 Tw (your device.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (of your device.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 23 15 cm
+1 0 0 1 23 285 cm
 Q
 q
-1 0 0 1 23 3 cm
+1 0 0 1 23 273 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -615,25 +677,8 @@ q
 Q
 Q
 q
-1 0 0 1 23 -3 cm
+1 0 0 1 23 267 cm
 Q
-q
-Q
-Q
- 
-endstream
-endobj
-% 'R11': class PDFStream 
-11 0 obj
-% page stream
-<< /Length 4539 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 62.69291 495.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 6 257 Tm  T* ET
 q
 1 0 0 1 23 255 cm
 0 0 0 rg
@@ -878,7 +923,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 495.0236 cm
+1 0 0 1 62.69291 459.0236 cm
 Q
  
 endstream
@@ -919,21 +964,21 @@ xref
 0000001030 00000 n
 0000001308 00000 n
 0000001464 00000 n
-0000001750 00000 n
-0000001864 00000 n
-0000011826 00000 n
-0000016466 00000 n
-0000016549 00000 n
-0000016655 00000 n
-0000016732 00000 n
+0000001738 00000 n
+0000001852 00000 n
+0000011954 00000 n
+0000017192 00000 n
+0000017275 00000 n
+0000017381 00000 n
+0000017458 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(>9\264P;\327\265Y\035\273\371\302IT\2444) (>9\264P;\327\265Y\035\273\371\302IT\2444)] 
+ [(,\327\025_\316\306\003X\357\361\351AO\231J\350) (,\327\025_\316\306\003X\357\361\351AO\231J\350)] 
 
  /Info 8 0 R
  /Root 7 0 R
  /Size 16 >>
 startxref
-16779
+17505
 %%EOF

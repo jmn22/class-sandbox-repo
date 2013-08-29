@@ -1,9 +1,14 @@
-Lecture 01: Class Introduction and Overview
-===========================================
+Lecture 02: Project Teams & ELN
+===============================
+
+BME464L (Fall 2013, Palmeri)
+----------------------------
 
 * Business Items
 
   + Bryan Research Building parking is available with Duke Card after 4:00 PM, so we can start lab on time (4:40 PM).
+
+  + Please bring personal laptops that you plan to use this semester to lab
 
 * Group project assignments
 
