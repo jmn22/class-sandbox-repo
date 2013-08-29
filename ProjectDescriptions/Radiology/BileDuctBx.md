@@ -17,7 +17,7 @@ Design a device that can be attached to a bile duct biopsy needle that can
 indicate when the needle tip has pierced into, but not through, a bile duct
 surrounded by liver parenchyma.
 
-### Research Contact ###
+### Clinical Contact ###
 
 Dr. Paul Suhocki, M.D. ([paul.suhocki@duke.edu](mailto:paul.suhocki@duke.edu))
 

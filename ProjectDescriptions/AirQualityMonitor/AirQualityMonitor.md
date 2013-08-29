@@ -1,13 +1,13 @@
 BME464L Project (Fall 2013, Palmeri)
 ====================================
 
-Inexpesive, Mobile Air Quality Monitors
+Inexpensive, Mobile Air Quality Monitors
 ---------------------------------------
 
 ### Research / Community Problem ###
 Air quality in research environments and communities can be of significant
 concern with respect to acute and chronic exposures that can lead to cancer,
-respiratory infections, asthma, and other repiratory ailments.  Air quality
+respiratory infections, asthma, and other respiratory ailments.  Air quality
 monitoring devices can be used to alert people of harmful air quality
 conditions, but units can be expensive and immobile.
 

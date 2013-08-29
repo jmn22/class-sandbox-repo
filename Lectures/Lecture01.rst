@@ -1,23 +1,14 @@
 Lecture 01: Class Introduction and Overview
 ===========================================
 
+BME464L (Fall 2013, Palmeri)
+----------------------------
+
 * Introductions
 
-* Knee injury update: http://sites.duke.edu/patellarpieces
+  + Knee injury update: http://sites.duke.edu/patellarpieces
 
-* Roster review
-
-  + All students:
-
-    - What did you do this summer?
-       
-    - What are you doing after you graduate?
-
-    - What do you hope to get out of this class?
-
-  + New students: 
-
-    - Fun fact to remember you by
+* Student introductions
 
 * Syllabus review: http://mlp6.github.com/Medical-Instrument-Design
 
