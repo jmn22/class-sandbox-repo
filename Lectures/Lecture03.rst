@@ -38,6 +38,8 @@ BME464L (Fall 2013, Palmeri)
 
       * Git Workflows: https://www.atlassian.com/git/workflows
 
+  * Duke-Medical-Intrumentation groups setup on GitHub, all with distributed management
+
   * Setting up username & email address
 
   * Login credentials (push access): HTTPS vs. SSH Public Keys
