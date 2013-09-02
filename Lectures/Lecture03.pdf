@@ -1,0 +1,921 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class PDFDictionary 
+4 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://git-scm.com/book) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 131.6929
+ 494.7736
+ 532.5827
+ 506.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class PDFDictionary 
+5 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://help.github.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 131.6929
+ 476.7736
+ 532.5827
+ 488.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class PDFDictionary 
+6 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://marklodato.github.io/visual-git-guide/index-en.html) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 238.4029
+ 458.7736
+ 486.2829
+ 470.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class PDFDictionary 
+7 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://rogerdudler.github.io/git-guide/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 229.5129
+ 440.7736
+ 390.1529
+ 452.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class PDFDictionary 
+8 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://www.atlassian.com/git/tutorial/git-basics) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 205.2629
+ 401.7736
+ 411.9929
+ 413.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER6': class PDFDictionary 
+9 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://www.atlassian.com/git/workflows) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 221.9229
+ 383.7736
+ 397.5229
+ 395.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER7': class PDFDictionary 
+10 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://help.github.com/categories/20/articles) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 195.4029
+ 245.7736
+ 257.6529
+ 257.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page1': class PDFPage 
+11 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R
+ 5 0 R
+ 6 0 R
+ 7 0 R
+ 8 0 R
+ 9 0 R
+ 10 0 R ]
+ /Contents 15 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 14 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R12': class PDFCatalog 
+12 0 obj
+% Document Root
+<< /Outlines 16 0 R
+ /PageLabels 17 0 R
+ /PageMode /UseNone
+ /Pages 14 0 R
+ /Type /Catalog >>
+endobj
+% 'R13': class PDFInfo 
+13 0 obj
+<< /Author ()
+ /CreationDate (D:20130902110823+05'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (Lecture 03: Using Git) >>
+endobj
+% 'R14': class PDFPages 
+14 0 obj
+% page tree
+<< /Count 1
+ /Kids [ 11 0 R ]
+ /Type /Pages >>
+endobj
+% 'R15': class PDFStream 
+15 0 obj
+% page stream
+<< /Length 9283 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 134.3649 0 Td (Lecture 03: Using Git) Tj T* -134.3649 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL 131.1524 0 Td (BME464L \(Fall 2013, Palmeri\)) Tj T* -131.1524 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 695.0236 cm
+Q
+q
+1 0 0 1 62.69291 695.0236 cm
+Q
+q
+1 0 0 1 62.69291 557.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 123 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Business Items) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 117 cm
+Q
+q
+1 0 0 1 23 117 cm
+Q
+q
+1 0 0 1 23 51 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Review of LabArchives) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 45 cm
+Q
+q
+1 0 0 1 23 45 cm
+Q
+q
+1 0 0 1 23 33 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Widgets) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 15 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Signing pages) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Review on Monday evenings) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 45 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Review of Semester Schedule) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 15 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Expectations in Presentations) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Copy slides to ELN) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 551.0236 cm
+Q
+q
+1 0 0 1 62.69291 251.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Using Git) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 279 cm
+Q
+q
+1 0 0 1 23 279 cm
+Q
+q
+1 0 0 1 23 141 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Lots of good online resources to learn git:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 117 cm
+Q
+q
+1 0 0 1 23 117 cm
+Q
+q
+1 0 0 1 23 105 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://git-scm.com/book) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 99 cm
+Q
+q
+1 0 0 1 23 87 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://help.github.com) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 81 cm
+Q
+q
+1 0 0 1 23 69 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (A Visual Git Reference: ) Tj 0 0 .501961 rg (http://marklodato.github.io/visual-git-guide/index-en.html) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 63 cm
+Q
+q
+1 0 0 1 23 51 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (git - the simple guide: ) Tj 0 0 .501961 rg (http://rogerdudler.github.io/git-guide/) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 45 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Atlassian) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 15 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Git Basics: ) Tj 0 0 .501961 rg (https://www.atlassian.com/git/tutorial/git-basics) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Git Workflows: ) Tj 0 0 .501961 rg (https://www.atlassian.com/git/workflows) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 141 cm
+Q
+q
+1 0 0 1 23 135 cm
+Q
+q
+1 0 0 1 23 135 cm
+Q
+q
+1 0 0 1 23 123 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Setting up username & email address) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 117 cm
+Q
+q
+1 0 0 1 23 105 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Login credentials \(push access\): HTTPS vs. SSH Public Keys) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 99 cm
+Q
+q
+1 0 0 1 23 87 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sharing repository: clone / push / pull) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 81 cm
+Q
+q
+1 0 0 1 23 69 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Workflow: local -- add --) Tj (> stage -- commit --) Tj (> commited -- push -) Tj (> origin) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 63 cm
+Q
+q
+1 0 0 1 23 51 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Local branches / merges) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 45 cm
+Q
+q
+1 0 0 1 23 33 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Post-commit hooks) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 15 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Issues) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Setting up wiki and ) Tj 0 0 .501961 rg (GitHub Pages) Tj  T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 245.0236 cm
+Q
+q
+1 0 0 1 62.69291 233.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Next Lecture: Introduction to the Microcontroller \(Arduino\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 233.0236 cm
+Q
+ 
+endstream
+endobj
+% 'R16': class PDFOutlines 
+16 0 obj
+<< /Count 0
+ /Type /Outlines >>
+endobj
+% 'R17': class PDFPageLabels 
+17 0 obj
+% Document Root
+<< /Nums [ 0
+ 18 0 R ] >>
+endobj
+% 'R18': class PDFPageLabel 
+18 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+xref
+0 19
+0000000000 65535 f
+0000000113 00000 n
+0000000221 00000 n
+0000000386 00000 n
+0000000573 00000 n
+0000000814 00000 n
+0000001054 00000 n
+0000001330 00000 n
+0000001587 00000 n
+0000001854 00000 n
+0000002111 00000 n
+0000002362 00000 n
+0000002712 00000 n
+0000002871 00000 n
+0000003137 00000 n
+0000003245 00000 n
+0000012629 00000 n
+0000012712 00000 n
+0000012805 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(^\312\2352\222\361^\021\345=9\255\224v}\334) (^\312\2352\222\361^\021\345=9\255\224v}\334)] 
+
+ /Info 13 0 R
+ /Root 12 0 R
+ /Size 19 >>
+startxref
+12852
+%%EOF
