@@ -48,7 +48,23 @@ BME464L (Fall 2013, Palmeri)
 
   * Workflow: local -- add --> stage -- commit --> commited -- push -> origin
 
+  * Demo: clone class sandbox repo
+
   * Local branches / merges
+
+    + Create local branch
+
+    + Make change to team page
+
+    + Switch back to master branch and correct a typo, commit and push (need to commit first!)
+
+    + Make more changes to branch
+      
+    + Merge branch changes to master
+
+    + Delete branch
+
+    + Push all changes
 
   * Post-commit hooks
 

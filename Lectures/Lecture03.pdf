@@ -123,29 +123,14 @@ endobj
  0
  0 ]
  /Rect [ 195.4029
- 227.7736
+ 83.77362
  257.6529
- 239.7736 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-% 'Annot.NUMBER8': class PDFDictionary 
-11 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://choosealicense.com/) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 205.9729
- 119.7736
- 324.3629
- 131.7736 ]
+ 95.77362 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Page1': class PDFPage 
-12 0 obj
+11 0 obj
 % Page dictionary
 << /Annots [ 4 0 R
  5 0 R
@@ -153,14 +138,13 @@ endobj
  7 0 R
  8 0 R
  9 0 R
- 10 0 R
- 11 0 R ]
- /Contents 16 0 R
+ 10 0 R ]
+ /Contents 17 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 15 0 R
+ /Parent 16 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -171,36 +155,72 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'R13': class PDFCatalog 
+% 'Annot.NUMBER8': class PDFDictionary 
+12 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://choosealicense.com/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 205.9729
+ 657.7736
+ 324.3629
+ 669.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page2': class PDFPage 
 13 0 obj
+% Page dictionary
+<< /Annots [ 12 0 R ]
+ /Contents 18 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 16 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R14': class PDFCatalog 
+14 0 obj
 % Document Root
-<< /Outlines 17 0 R
- /PageLabels 18 0 R
+<< /Outlines 19 0 R
+ /PageLabels 20 0 R
  /PageMode /UseNone
- /Pages 15 0 R
+ /Pages 16 0 R
  /Type /Catalog >>
 endobj
-% 'R14': class PDFInfo 
-14 0 obj
+% 'R15': class PDFInfo 
+15 0 obj
 << /Author ()
- /CreationDate (D:20130902231105+05'00')
+ /CreationDate (D:20130902232147+05'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
  /Subject (\(unspecified\))
  /Title (Lecture 03: Using Git) >>
 endobj
-% 'R15': class PDFPages 
-15 0 obj
+% 'R16': class PDFPages 
+16 0 obj
 % page tree
-<< /Count 1
- /Kids [ 12 0 R ]
+<< /Count 2
+ /Kids [ 11 0 R
+ 13 0 R ]
  /Type /Pages >>
 endobj
-% 'R16': class PDFStream 
-16 0 obj
+% 'R17': class PDFStream 
+17 0 obj
 % page stream
-<< /Length 11390 >>
+<< /Length 11871 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -433,31 +453,31 @@ q
 1 0 0 1 62.69291 551.0236 cm
 Q
 q
-1 0 0 1 62.69291 233.0236 cm
+1 0 0 1 62.69291 89.02362 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 303 cm
+1 0 0 1 6 447 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 303 cm
+1 0 0 1 23 447 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Using Git) Tj T* ET
 Q
 Q
 q
-1 0 0 1 23 297 cm
+1 0 0 1 23 441 cm
 Q
 q
-1 0 0 1 23 297 cm
+1 0 0 1 23 441 cm
 Q
 q
-1 0 0 1 23 159 cm
+1 0 0 1 23 303 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -656,16 +676,16 @@ q
 Q
 Q
 q
-1 0 0 1 23 159 cm
+1 0 0 1 23 303 cm
 Q
 q
-1 0 0 1 23 153 cm
+1 0 0 1 23 297 cm
 Q
 q
-1 0 0 1 23 153 cm
+1 0 0 1 23 297 cm
 Q
 q
-1 0 0 1 23 141 cm
+1 0 0 1 23 285 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -686,10 +706,10 @@ q
 Q
 Q
 q
-1 0 0 1 23 135 cm
+1 0 0 1 23 279 cm
 Q
 q
-1 0 0 1 23 123 cm
+1 0 0 1 23 267 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -709,6 +729,125 @@ q
 Q
 Q
 q
+1 0 0 1 23 261 cm
+Q
+q
+1 0 0 1 23 249 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Login credentials \(push access\): HTTPS vs. SSH Public Keys) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 243 cm
+Q
+q
+1 0 0 1 23 231 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sharing repository: clone / push / pull) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 225 cm
+Q
+q
+1 0 0 1 23 213 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Workflow: local -- add --) Tj (> stage -- commit --) Tj (> commited -- push -) Tj (> origin) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 207 cm
+Q
+q
+1 0 0 1 23 195 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Demo: clone class sandbox repo) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 189 cm
+Q
+q
+1 0 0 1 23 51 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Local branches / merges) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 117 cm
+Q
+q
 1 0 0 1 23 117 cm
 Q
 q
@@ -726,7 +865,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Login credentials \(push access\): HTTPS vs. SSH Public Keys) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Create local branch) Tj T* ET
 Q
 Q
 q
@@ -750,7 +889,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sharing repository: clone / push / pull) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Make change to team page) Tj T* ET
 Q
 Q
 q
@@ -773,7 +912,8 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Workflow: local -- add --) Tj (> stage -- commit --) Tj (> commited -- push -) Tj (> origin) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Switch back to master branch and correct a typo, commit and push \(need to commit first!\)) Tj T* ET
 Q
 Q
 q
@@ -797,8 +937,86 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Local branches / merges) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Make more changes to branch) Tj T* ET
 Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 45 cm
+Q
+q
+1 0 0 1 23 33 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Merge branch changes to master) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 15 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Delete branch) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Push all changes) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
 Q
 q
 Q
@@ -881,10 +1099,19 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 227.0236 cm
+1 0 0 1 62.69291 83.02362 cm
 Q
+ 
+endstream
+endobj
+% 'R18': class PDFStream 
+18 0 obj
+% page stream
+<< /Length 2151 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 125.0236 cm
+1 0 0 1 62.69291 663.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -982,10 +1209,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 119.0236 cm
+1 0 0 1 62.69291 657.0236 cm
 Q
 q
-1 0 0 1 62.69291 107.0236 cm
+1 0 0 1 62.69291 645.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1006,30 +1233,38 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 107.0236 cm
+1 0 0 1 62.69291 645.0236 cm
 Q
  
 endstream
 endobj
-% 'R17': class PDFOutlines 
-17 0 obj
+% 'R19': class PDFOutlines 
+19 0 obj
 << /Count 0
  /Type /Outlines >>
 endobj
-% 'R18': class PDFPageLabels 
-18 0 obj
+% 'R20': class PDFPageLabels 
+20 0 obj
 % Document Root
 << /Nums [ 0
- 19 0 R ] >>
+ 21 0 R
+ 1
+ 22 0 R ] >>
 endobj
-% 'R19': class PDFPageLabel 
-19 0 obj
+% 'R21': class PDFPageLabel 
+21 0 obj
 % None
 << /S /D
  /St 1 >>
 endobj
+% 'R22': class PDFPageLabel 
+22 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
 xref
-0 20
+0 23
 0000000000 65535 f
 0000000113 00000 n
 0000000221 00000 n
@@ -1041,23 +1276,26 @@ xref
 0000001587 00000 n
 0000001854 00000 n
 0000002111 00000 n
-0000002376 00000 n
-0000002607 00000 n
-0000002966 00000 n
-0000003125 00000 n
-0000003391 00000 n
-0000003499 00000 n
-0000014991 00000 n
-0000015074 00000 n
-0000015167 00000 n
+0000002362 00000 n
+0000002725 00000 n
+0000002956 00000 n
+0000003258 00000 n
+0000003417 00000 n
+0000003683 00000 n
+0000003800 00000 n
+0000015771 00000 n
+0000018023 00000 n
+0000018106 00000 n
+0000018212 00000 n
+0000018289 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\370\024To\350\035,\011B\251\017\302:f\223C) (\370\024To\350\035,\011B\251\017\302:f\223C)] 
+ [(\203\220W\267\213AO.*\213i\265v\377\230\235) (\203\220W\267\213AO.*\213i\265v\377\230\235)] 
 
- /Info 14 0 R
- /Root 13 0 R
- /Size 20 >>
+ /Info 15 0 R
+ /Root 14 0 R
+ /Size 23 >>
 startxref
-15214
+18336
 %%EOF
