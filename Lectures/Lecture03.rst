@@ -56,4 +56,12 @@ BME464L (Fall 2013, Palmeri)
 
   * Setting up wiki and `GitHub Pages <https://help.github.com/categories/20/articles>`_
 
+* Due next lecture: Software License
+
+  + Choose a software license for your GitHub repository.  Push an appropriate LICENSE file to your repository, and follow the necessary guidelines in putting header comments in your code moving forward.
+
+  + Upload a one-page writeup (submitted as a group) to your ELN justifying the choice of your software license in the context of other common licenses.
+
+  + A good starting point: http://choosealicense.com/
+
 * Next Lecture: Introduction to the Microcontroller (Arduino)
